@@ -22,6 +22,7 @@
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Simple command-line interface for Google Gemini API
 - 🔗 **[Feishu to WeChat](https://github.com/wangruofeng/feishu2wx)** - Integration tool for syncing Feishu and WeChat messages
 - 🗜️ **[EcoCompress](https://github.com/wangruofeng/ecocompress)** - Smart image compression with AI optimization
+- 📅 **[lunar-birthday-reminder](https://github.com/wangruofeng/lunar-birthday-reminder)** - Lunar birthday reminder tool
 
 ### 📱 Mobile Development
 
