@@ -23,6 +23,7 @@
 - 🔗 **[Feishu to WeChat](https://github.com/wangruofeng/feishu2wx)** - Integration tool for syncing Feishu and WeChat messages
 - 🗜️ **[EcoCompress](https://github.com/wangruofeng/ecocompress)** - Smart image compression with AI optimization
 - 📅 **[lunar-birthday-reminder](https://github.com/wangruofeng/lunar-birthday-reminder)** - Lunar birthday reminder tool
+- 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - Real-time YouTube live stream translation tool
 
 ### 📱 Mobile Development
 
