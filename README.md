@@ -24,6 +24,7 @@
 - 🗜️ **[EcoCompress](https://github.com/wangruofeng/ecocompress)** - Smart image compression with AI optimization
 - 📅 **[lunar-birthday-reminder](https://github.com/wangruofeng/lunar-birthday-reminder)** - Lunar birthday reminder tool
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - Real-time YouTube live stream translation tool
+- 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 
 ### 📱 Mobile Development
 
