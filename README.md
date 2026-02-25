@@ -19,6 +19,8 @@
 
 ### 🌐 Web & Tools
 
+- 📚 **[LLM Terms Workshop](https://big-model-terms.vercel.app/)** - Learn 30 core Large Language Model concepts
+- 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Master English vocabulary through root analysis
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Simple command-line interface for Google Gemini API
 - 🔗 **[Feishu to WeChat](https://github.com/wangruofeng/feishu2wx)** - Integration tool for syncing Feishu and WeChat messages
 - 🗜️ **[EcoCompress](https://github.com/wangruofeng/ecocompress)** - Smart image compression with AI optimization
