@@ -25,7 +25,7 @@
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Master English vocabulary through root analysis
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Simple command-line interface for Google Gemini API
 - 🔗 **[Feishu to WeChat](https://github.com/wangruofeng/feishu2wx)** - Integration tool for syncing Feishu and WeChat messages
-- 🗜️ **[EcoCompress](https://github.com/wangruofeng/ecocompress)** - Smart image compression with AI optimization
+- 🗜️ **[ImgCompress](https://github.com/wangruofeng/imgcompress)** - Smart image compression with AI optimization
 - 📅 **[lunar-birthday-reminder](https://github.com/wangruofeng/lunar-birthday-reminder)** - Lunar birthday reminder tool
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - Real-time YouTube live stream translation tool
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing

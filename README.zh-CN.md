@@ -25,7 +25,7 @@
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - 通过词根分析掌握英语词汇
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Google Gemini API 简易命令行工具
 - 🔗 **[Feishu to WeChat](https://github.com/wangruofeng/feishu2wx)** - 飞书与微信消息同步集成工具
-- 🗜️ **[EcoCompress](https://github.com/wangruofeng/ecocompress)** - AI 优化的智能图片压缩工具
+- 🗜️ **[ImgCompress](https://github.com/wangruofeng/imgcompress)** - AI 优化的智能图片压缩工具
 - 📅 **[lunar-birthday-reminder](https://github.com/wangruofeng/lunar-birthday-reminder)** - 农历生日提醒工具
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - YouTube 直播实时翻译工具
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - 带 Web 界面的 Python FTP 服务器，方便文件共享
