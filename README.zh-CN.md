@@ -31,6 +31,7 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - 带 Web 界面的 Python FTP 服务器，方便文件共享
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - 经典 Web 目录索引界面的 FTP 服务器
 - 🎨 **[儿童画作画廊](https://gallery.wangruofeng007.com/)** - 基于 Astro 构建的静态作品画廊，用于长期归档和展示儿童绘画作品
+- 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - 现代新闻聚合平台（[源码](https://github.com/wangruofeng/newsnow)）
 
 ### 📱 移动开发
 
