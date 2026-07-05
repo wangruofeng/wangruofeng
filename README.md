@@ -32,6 +32,7 @@
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - A modern news aggregation platform ([Source](https://github.com/wangruofeng/newsnow))
+- 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
 ### 📱 Mobile Development
 
