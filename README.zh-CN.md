@@ -32,6 +32,7 @@
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - 经典 Web 目录索引界面的 FTP 服务器
 - 🎨 **[儿童画作画廊](https://gallery.wangruofeng007.com/)** - 基于 Astro 构建的静态作品画廊，用于长期归档和展示儿童绘画作品
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - 现代新闻聚合平台（[源码](https://github.com/wangruofeng/newsnow)）
+- 🧩 **[Vector Forge](https://github.com/wangruofeng/vector-forge)** - 支持图层实时编辑、预览、缩放和撤销 / 前进的浏览器 SVG 编辑器（[在线体验](https://vector-forge-5hx.pages.dev/)）
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - 文本截图捕捉与 OCR 识别工具
 
 ### 📱 移动开发
