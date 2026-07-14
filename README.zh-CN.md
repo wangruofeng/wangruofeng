@@ -25,7 +25,7 @@
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - 通过代码解读开源项目的中英文课程平台（[源码](https://github.com/wangruofeng/github-course)）
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - 通过词根分析掌握英语词汇
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Google Gemini API 简易命令行工具
-- 🔗 **[Feishu to WeChat](https://github.com/wangruofeng/feishu2wx)** - 飞书文档一键转公众号排版工具
+- 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - 飞书文档一键转公众号排版工具
 - 🗜️ **[ImgCompress](https://github.com/wangruofeng/img-compress)** - AI 优化的智能图片压缩工具
 - 📅 **[lunar-birthday-reminder](https://github.com/wangruofeng/lunar-birthday-reminder)** - 农历生日提醒工具
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - YouTube 直播实时翻译工具
