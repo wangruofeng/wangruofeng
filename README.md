@@ -83,7 +83,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wangruofeng007@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/oneruofeng)
 [![掘金](https://img.shields.io/badge/-掘金-1E80FF?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/712139266070296)
-[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=globe&logoColor=white)](https://blog.wangruofeng007.com/)
+[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=globe&logoColor=white)](https://wangruofeng007.com/)
 [![微信公众号](https://img.shields.io/badge/-微信公众号-07C160?style=flat-square&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzYzNzI1NjM0NQ==)
 
 ---
