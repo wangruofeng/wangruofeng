@@ -22,7 +22,7 @@
 ### 🌐 Web & Tools
 
 - 📚 **[LLM Terms Workshop](https://big-model-terms.vercel.app/)** - Learn 30 core Large Language Model concepts
-- 🧭 **[GitHub Course](https://github-course.pages.dev/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
+- 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Master English vocabulary through root analysis
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Simple command-line interface for Google Gemini API
 - 🔗 **[Feishu to WeChat](https://github.com/wangruofeng/feishu2wx)** - One-click Feishu-to-WeChat article formatting tool
