@@ -32,6 +32,7 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
+- 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - Bilingual visual dictionary for identifying UI elements, learning precise terminology, and generating prompts for coding agents ([Source](https://github.com/wangruofeng/learnui))
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - A modern news aggregation platform ([Source](https://github.com/wangruofeng/newsnow))
 - 🧩 **[Vector Forge](https://github.com/wangruofeng/vector-forge)** - Browser-based SVG editor with live layer editing, preview, zoom, undo/redo, and Cloudflare Pages deployment ([Live Demo](https://vector-forge.wangruofeng007.com/))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
