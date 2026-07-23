@@ -24,6 +24,10 @@
 - 📚 **[LLM Terms Workshop](https://big-model-terms.vercel.app/)** - Learn 30 core Large Language Model concepts
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Master English vocabulary through root analysis
+- 🧾 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - Zero-dependency, browser-based JSON formatter and viewer with structured expand/collapse, field copying, and local parsing ([Source](https://github.com/wangruofeng/json-viewer))
+- 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - A collection of 140+ pure CSS, SVG, and Canvas web animation effects with live browser previews and bilingual UI ([Source](https://github.com/wangruofeng/animation-playground))
+- 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - Interactive demonstrations for the Web animation ecosystem, covering CSS, DOM, SVG, Canvas, WebGL/GPU, and popular animation frameworks ([Source](https://github.com/wangruofeng/web-animation))
+- 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - A collection of skills that teach AI agents how to think through first-principles generation and adversarial review
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Simple command-line interface for Google Gemini API
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - One-click Feishu-to-WeChat article formatting tool
 - 🗜️ **[ImgCompress](https://github.com/wangruofeng/img-compress)** - Smart image compression with AI optimization
