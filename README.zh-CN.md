@@ -30,8 +30,8 @@
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - 教 AI agent 如何思考的 skill 集合，通过第一性原理生成、对抗式审查验证
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Google Gemini API 简易命令行工具
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - 飞书文档一键转公众号排版工具
-- 🗜️ **[ImgCompress](https://github.com/wangruofeng/img-compress)** - AI 优化的智能图片压缩工具
-- 📅 **[lunar-birthday-reminder](https://github.com/wangruofeng/lunar-birthday-reminder)** - 农历生日提醒工具
+- 🗜️ **[ImgCompress](https://wangruofeng.github.io/img-compress/)** - 安全、快速、完全基于浏览器的图片压缩工具（[源码](https://github.com/wangruofeng/img-compress)）
+- 📅 **[lunar-birthday-reminder](https://blog.wangruofeng007.com/lunar-birthday-reminder/)** - 农历生日管理与提醒应用，支持多套实现（[源码](https://github.com/wangruofeng/lunar-birthday-reminder)）
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - YouTube 直播实时翻译工具
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - 带 Web 界面的 Python FTP 服务器，方便文件共享
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - 经典 Web 目录索引界面的 FTP 服务器
