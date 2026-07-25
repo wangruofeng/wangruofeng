@@ -21,7 +21,7 @@
 
 ### 🌐 Web & 工具
 
-- 📚 **[LLM Terms Workshop](https://big-model-terms.vercel.app/)** - 学习 30 个核心大语言模型概念
+- 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - 学习 30 个核心大语言模型概念（[源码](https://github.com/wangruofeng/big-model-terms)）
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - 通过代码解读开源项目的中英文课程平台（[源码](https://github.com/wangruofeng/github-course)）
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - 通过词根分析掌握英语词汇
 - 🧾 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - 单文件、零依赖的浏览器 JSON 格式化与查看工具，支持结构化展开折叠、字段复制和本地解析（[源码](https://github.com/wangruofeng/json-viewer)）

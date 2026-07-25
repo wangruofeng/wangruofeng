@@ -21,7 +21,7 @@
 
 ### 🌐 Web & Tools
 
-- 📚 **[LLM Terms Workshop](https://big-model-terms.vercel.app/)** - Learn 30 core Large Language Model concepts
+- 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - Learn 30 core Large Language Model concepts ([Source](https://github.com/wangruofeng/big-model-terms))
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Master English vocabulary through root analysis
 - 🧾 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - Zero-dependency, browser-based JSON formatter and viewer with structured expand/collapse, field copying, and local parsing ([Source](https://github.com/wangruofeng/json-viewer))
