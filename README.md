@@ -25,17 +25,6 @@
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Learn English vocabulary by breaking down roots, prefixes, and suffixes ([Source](https://github.com/wangruofeng/word-root-workshop))
 - 🧾 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - Zero-dependency, browser-based JSON formatter and viewer with structured expand/collapse, field copying, and local parsing ([Source](https://github.com/wangruofeng/json-viewer))
-- 🧾 **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - Zero-dependency, browser-based XML formatter and viewer with structured expand/collapse, field copying, and local parsing ([Source](https://github.com/wangruofeng/xml-viewer))
-- 🧾 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - Zero-dependency, browser-based CSV viewer with import, delimiter detection, sorting, filtering, copying, and export ([Source](https://github.com/wangruofeng/csv-viewer))
-- 🧾 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - Zero-dependency, browser-based YAML formatter and viewer with structured expand/collapse, field copying, and local parsing ([Source](https://github.com/wangruofeng/yaml-viewer))
-- 🧾 **[JWT Decoder](https://blog.wangruofeng007.com/jwt-decoder/)** - Zero-dependency, browser-based JWT decoder with local header and payload decoding, tree views, and expiration-status detection ([Source](https://github.com/wangruofeng/jwt-decoder))
-- 🧾 **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - Zero-dependency, browser-based HTML structure viewer with import, DOM tree views, hierarchical expand/collapse, and field copying ([Source](https://github.com/wangruofeng/html-viewer))
-- 🧾 **[Diff Viewer](https://blog.wangruofeng007.com/diff-viewer/)** - Zero-dependency, browser-based text diff tool with line and character highlighting plus split and unified views ([Source](https://github.com/wangruofeng/diff-viewer))
-- 🧾 **[Regex Tester](https://blog.wangruofeng007.com/regex-tester/)** - Zero-dependency, browser-based regex tester with live matching, capture groups, replacement previews, and common patterns ([Source](https://github.com/wangruofeng/regex-tester))
-- 🧾 **[Timestamp Converter](https://blog.wangruofeng007.com/timestamp-converter/)** - Zero-dependency, browser-based timestamp converter with unit detection, time zones, relative time, and batch conversion ([Source](https://github.com/wangruofeng/timestamp-converter))
-- 🧾 **[JSON to Code](https://blog.wangruofeng007.com/json-to-code/)** - Zero-dependency, browser-based JSON-to-code generator for TypeScript interfaces, Go structs, and Python dataclasses ([Source](https://github.com/wangruofeng/json-to-code))
-- 🧾 **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Zero-dependency, browser-based cron parser with plain-language descriptions, upcoming schedules, and field breakdowns ([Source](https://github.com/wangruofeng/cron-viewer))
-- 🧾 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - Zero-dependency, browser-based converter for JSON, YAML, XML, and CSV with format detection ([Source](https://github.com/wangruofeng/data-converter))
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - A collection of 140+ pure CSS, SVG, and Canvas web animation effects with live browser previews and bilingual UI ([Source](https://github.com/wangruofeng/animation-playground))
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - Interactive demonstrations for the Web animation ecosystem, covering CSS, DOM, SVG, Canvas, WebGL/GPU, and popular animation frameworks ([Source](https://github.com/wangruofeng/web-animation))
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - A collection of skills that teach AI agents how to think through first-principles generation and adversarial review
@@ -51,6 +40,20 @@
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - A modern news aggregation platform ([Source](https://github.com/wangruofeng/newsnow))
 - 🧩 **[Vector Forge](https://github.com/wangruofeng/vector-forge)** - Browser-based SVG editor with live layer editing, preview, zoom, undo/redo, and Cloudflare Pages deployment ([Live Demo](https://vector-forge.wangruofeng007.com/))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
+
+### 🧰 Online Tools
+
+- 🧾 **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - Format and inspect XML ([Source](https://github.com/wangruofeng/xml-viewer))
+- 🧾 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - Preview, filter, and export CSV ([Source](https://github.com/wangruofeng/csv-viewer))
+- 🧾 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - Format and inspect YAML ([Source](https://github.com/wangruofeng/yaml-viewer))
+- 🧾 **[JWT Decoder](https://blog.wangruofeng007.com/jwt-decoder/)** - Decode JWTs and check expiry ([Source](https://github.com/wangruofeng/jwt-decoder))
+- 🧾 **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - Inspect HTML structure ([Source](https://github.com/wangruofeng/html-viewer))
+- 🧾 **[Diff Viewer](https://blog.wangruofeng007.com/diff-viewer/)** - Compare text differences ([Source](https://github.com/wangruofeng/diff-viewer))
+- 🧾 **[Regex Tester](https://blog.wangruofeng007.com/regex-tester/)** - Test regex matches and replacements ([Source](https://github.com/wangruofeng/regex-tester))
+- 🧾 **[Timestamp Converter](https://blog.wangruofeng007.com/timestamp-converter/)** - Convert timestamps and dates ([Source](https://github.com/wangruofeng/timestamp-converter))
+- 🧾 **[JSON to Code](https://blog.wangruofeng007.com/json-to-code/)** - Generate TypeScript, Go, and Python from JSON ([Source](https://github.com/wangruofeng/json-to-code))
+- 🧾 **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Explain cron expressions and next runs ([Source](https://github.com/wangruofeng/cron-viewer))
+- 🧾 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - Convert JSON, YAML, XML, and CSV ([Source](https://github.com/wangruofeng/data-converter))
 
 ### 📱 Mobile Development
 
