@@ -24,6 +24,7 @@
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - 学习 30 个核心大语言模型概念（[源码](https://github.com/wangruofeng/big-model-terms)）
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - 通过代码解读开源项目的中英文课程平台（[源码](https://github.com/wangruofeng/github-course)）
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - 通过拆解词根、前缀和后缀学习英语词汇（[源码](https://github.com/wangruofeng/word-root-workshop)）
+- 📐 **[SVG Learning](https://blog.wangruofeng007.com/svg-learning/)** - 从基础语法到生产实践的交互式 SVG 指南（[源码](https://github.com/wangruofeng/svg-learning)）
 - 🧾 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - 单文件、零依赖的浏览器 JSON 格式化与查看工具，支持结构化展开折叠、字段复制和本地解析（[源码](https://github.com/wangruofeng/json-viewer)）
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - 140+ 个纯 CSS、SVG 和 Canvas 网页动画特效合集，支持浏览器本地实时预览与中英双语界面（[源码](https://github.com/wangruofeng/animation-playground)）
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - 系统化讲解 Web 动画技术体系的交互式演示站，覆盖 CSS、DOM、SVG、Canvas、WebGL / GPU 及常用动画框架（[源码](https://github.com/wangruofeng/web-animation)）

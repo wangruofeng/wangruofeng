@@ -24,6 +24,7 @@
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - Learn 30 core Large Language Model concepts ([Source](https://github.com/wangruofeng/big-model-terms))
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Learn English vocabulary by breaking down roots, prefixes, and suffixes ([Source](https://github.com/wangruofeng/word-root-workshop))
+- 📐 **[SVG Learning](https://blog.wangruofeng007.com/svg-learning/)** - Interactive SVG guide from syntax to production ([Source](https://github.com/wangruofeng/svg-learning))
 - 🧾 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - Zero-dependency, browser-based JSON formatter and viewer with structured expand/collapse, field copying, and local parsing ([Source](https://github.com/wangruofeng/json-viewer))
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - A collection of 140+ pure CSS, SVG, and Canvas web animation effects with live browser previews and bilingual UI ([Source](https://github.com/wangruofeng/animation-playground))
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - Interactive demonstrations for the Web animation ecosystem, covering CSS, DOM, SVG, Canvas, WebGL/GPU, and popular animation frameworks ([Source](https://github.com/wangruofeng/web-animation))
