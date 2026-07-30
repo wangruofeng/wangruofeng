@@ -44,6 +44,10 @@
 
 ### 🧰 在线工具集
 
+- 📐 **[CSS Unit Converter](https://blog.wangruofeng007.com/css-unit-converter/)** - CSS 单位实时换算（[源码](https://github.com/wangruofeng/css-unit-converter)）
+- 📝 **[.gitignore Generator](https://blog.wangruofeng007.com/git-ignore-generator/)** - 按技术栈模板生成 .gitignore 文件（[源码](https://github.com/wangruofeng/git-ignore-generator)）
+- 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
+- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
 - 🧾 **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - XML 格式化与查看（[源码](https://github.com/wangruofeng/xml-viewer)）
 - 🧾 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - CSV 预览、过滤与导出（[源码](https://github.com/wangruofeng/csv-viewer)）
 - 🧾 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - YAML 格式化与查看（[源码](https://github.com/wangruofeng/yaml-viewer)）

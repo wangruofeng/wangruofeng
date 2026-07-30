@@ -44,6 +44,10 @@
 
 ### 🧰 Online Tools
 
+- 📐 **[CSS Unit Converter](https://blog.wangruofeng007.com/css-unit-converter/)** - Convert CSS units in real time ([Source](https://github.com/wangruofeng/css-unit-converter))
+- 📝 **[.gitignore Generator](https://blog.wangruofeng007.com/git-ignore-generator/)** - Generate .gitignore files from technology-stack templates ([Source](https://github.com/wangruofeng/git-ignore-generator))
+- 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
+- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
 - 🧾 **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - Format and inspect XML ([Source](https://github.com/wangruofeng/xml-viewer))
 - 🧾 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - Preview, filter, and export CSV ([Source](https://github.com/wangruofeng/csv-viewer))
 - 🧾 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - Format and inspect YAML ([Source](https://github.com/wangruofeng/yaml-viewer))
