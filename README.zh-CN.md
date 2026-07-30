@@ -52,7 +52,7 @@
 - 🧾 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - CSV 预览、过滤与导出（[源码](https://github.com/wangruofeng/csv-viewer)）
 - 🧾 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - YAML 格式化与查看（[源码](https://github.com/wangruofeng/yaml-viewer)）
 - 🧾 **[JWT Decoder](https://blog.wangruofeng007.com/jwt-decoder/)** - JWT 解码与过期检查（[源码](https://github.com/wangruofeng/jwt-decoder)）
-- 🧾 **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - HTML 结构预览（[源码](https://github.com/wangruofeng/html-viewer)）
+- 🧾 **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - HTML 结构预览与编辑（[源码](https://github.com/wangruofeng/html-viewer)）
 - 🧾 **[Diff Viewer](https://blog.wangruofeng007.com/diff-viewer/)** - 文本差异对比（[源码](https://github.com/wangruofeng/diff-viewer)）
 - 🧾 **[Regex Tester](https://blog.wangruofeng007.com/regex-tester/)** - 正则匹配与替换测试（[源码](https://github.com/wangruofeng/regex-tester)）
 - 🧾 **[Timestamp Converter](https://blog.wangruofeng007.com/timestamp-converter/)** - 时间戳与日期转换（[源码](https://github.com/wangruofeng/timestamp-converter)）

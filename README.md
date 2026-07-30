@@ -52,7 +52,7 @@
 - 🧾 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - Preview, filter, and export CSV ([Source](https://github.com/wangruofeng/csv-viewer))
 - 🧾 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - Format and inspect YAML ([Source](https://github.com/wangruofeng/yaml-viewer))
 - 🧾 **[JWT Decoder](https://blog.wangruofeng007.com/jwt-decoder/)** - Decode JWTs and check expiry ([Source](https://github.com/wangruofeng/jwt-decoder))
-- 🧾 **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - Inspect HTML structure ([Source](https://github.com/wangruofeng/html-viewer))
+- 🧾 **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - Preview and edit HTML structure ([Source](https://github.com/wangruofeng/html-viewer))
 - 🧾 **[Diff Viewer](https://blog.wangruofeng007.com/diff-viewer/)** - Compare text differences ([Source](https://github.com/wangruofeng/diff-viewer))
 - 🧾 **[Regex Tester](https://blog.wangruofeng007.com/regex-tester/)** - Test regex matches and replacements ([Source](https://github.com/wangruofeng/regex-tester))
 - 🧾 **[Timestamp Converter](https://blog.wangruofeng007.com/timestamp-converter/)** - Convert timestamps and dates ([Source](https://github.com/wangruofeng/timestamp-converter))
