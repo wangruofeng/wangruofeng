@@ -44,6 +44,10 @@
 
 ### 🧰 Online Tools
 
+- 🧮 **[Tax Calculator](https://blog.wangruofeng007.com/tax-calc/)** - Calculate Chinese individual income tax and annual bonuses ([Source](https://github.com/wangruofeng/tax-calc))
+- 🏠 **[Mortgage Calculator](https://blog.wangruofeng007.com/mortgage-calc/)** - Calculate mortgage repayments and early repayments ([Source](https://github.com/wangruofeng/mortgage-calc))
+- 🔌 **[Port List](https://blog.wangruofeng007.com/port-list/)** - Look up and browse common network ports ([Source](https://github.com/wangruofeng/port-list))
+- 💴 **[RMB Words](https://blog.wangruofeng007.com/rmb-words/)** - Convert amounts between numbers and uppercase RMB words ([Source](https://github.com/wangruofeng/rmb-words))
 - 📐 **[CSS Unit Converter](https://blog.wangruofeng007.com/css-unit-converter/)** - Convert CSS units in real time ([Source](https://github.com/wangruofeng/css-unit-converter))
 - 📝 **[.gitignore Generator](https://blog.wangruofeng007.com/git-ignore-generator/)** - Generate .gitignore files from technology-stack templates ([Source](https://github.com/wangruofeng/git-ignore-generator))
 - 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))

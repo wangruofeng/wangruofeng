@@ -44,6 +44,10 @@
 
 ### 🧰 在线工具集
 
+- 🧮 **[个税计算器](https://blog.wangruofeng007.com/tax-calc/)** - 中国个人所得税与年终奖测算（[源码](https://github.com/wangruofeng/tax-calc)）
+- 🏠 **[房贷计算器](https://blog.wangruofeng007.com/mortgage-calc/)** - 房贷还款与提前还款测算（[源码](https://github.com/wangruofeng/mortgage-calc)）
+- 🔌 **[常用端口速查](https://blog.wangruofeng007.com/port-list/)** - 常用网络端口查询与分类浏览（[源码](https://github.com/wangruofeng/port-list)）
+- 💴 **[金额大写转换](https://blog.wangruofeng007.com/rmb-words/)** - 人民币数字与大写金额双向转换（[源码](https://github.com/wangruofeng/rmb-words)）
 - 📐 **[CSS Unit Converter](https://blog.wangruofeng007.com/css-unit-converter/)** - CSS 单位实时换算（[源码](https://github.com/wangruofeng/css-unit-converter)）
 - 📝 **[.gitignore Generator](https://blog.wangruofeng007.com/git-ignore-generator/)** - 按技术栈模板生成 .gitignore 文件（[源码](https://github.com/wangruofeng/git-ignore-generator)）
 - 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
