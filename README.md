@@ -44,6 +44,10 @@
 
 ### 🧰 Online Tools
 
+- ▦ **[QR Tool](https://blog.wangruofeng007.com/qr-tool/)** - Generate, scan, and export QR codes ([Source](https://github.com/wangruofeng/qr-tool))
+- #️⃣ **[File Hash Checker](https://blog.wangruofeng007.com/file-hash/)** - Calculate and verify file hashes locally ([Source](https://github.com/wangruofeng/file-hash))
+- 🔤 **[Unicode Lookup](https://blog.wangruofeng007.com/unicode-lookup/)** - Look up Unicode characters and convert encodings ([Source](https://github.com/wangruofeng/unicode-lookup))
+- 🪪 **[ID Card Parser](https://blog.wangruofeng007.com/id-card/)** - Parse and validate Chinese ID card numbers locally ([Source](https://github.com/wangruofeng/id-card))
 - 🧮 **[Tax Calculator](https://blog.wangruofeng007.com/tax-calc/)** - Calculate Chinese individual income tax and annual bonuses ([Source](https://github.com/wangruofeng/tax-calc))
 - 🏠 **[Mortgage Calculator](https://blog.wangruofeng007.com/mortgage-calc/)** - Calculate mortgage repayments and early repayments ([Source](https://github.com/wangruofeng/mortgage-calc))
 - 🔌 **[Port List](https://blog.wangruofeng007.com/port-list/)** - Look up and browse common network ports ([Source](https://github.com/wangruofeng/port-list))

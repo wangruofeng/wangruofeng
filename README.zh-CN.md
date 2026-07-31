@@ -44,6 +44,10 @@
 
 ### 🧰 在线工具集
 
+- ▦ **[二维码工具](https://blog.wangruofeng007.com/qr-tool/)** - 二维码生成、识别与导出（[源码](https://github.com/wangruofeng/qr-tool)）
+- #️⃣ **[文件哈希校验](https://blog.wangruofeng007.com/file-hash/)** - 本地计算与比对文件哈希值（[源码](https://github.com/wangruofeng/file-hash)）
+- 🔤 **[Unicode 速查](https://blog.wangruofeng007.com/unicode-lookup/)** - Unicode 字符查询与编码转换（[源码](https://github.com/wangruofeng/unicode-lookup)）
+- 🪪 **[身份证解析校验](https://blog.wangruofeng007.com/id-card/)** - 身份证号码本地解析与校验（[源码](https://github.com/wangruofeng/id-card)）
 - 🧮 **[个税计算器](https://blog.wangruofeng007.com/tax-calc/)** - 中国个人所得税与年终奖测算（[源码](https://github.com/wangruofeng/tax-calc)）
 - 🏠 **[房贷计算器](https://blog.wangruofeng007.com/mortgage-calc/)** - 房贷还款与提前还款测算（[源码](https://github.com/wangruofeng/mortgage-calc)）
 - 🔌 **[常用端口速查](https://blog.wangruofeng007.com/port-list/)** - 常用网络端口查询与分类浏览（[源码](https://github.com/wangruofeng/port-list)）
