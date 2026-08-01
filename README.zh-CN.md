@@ -40,6 +40,7 @@
 - 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - 中英双语 UI 视觉词典：识别界面元素、理解真实术语，并生成可直接用于 coding agent 的 prompt（[源码](https://github.com/wangruofeng/learnui)）
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - 现代新闻聚合平台（[源码](https://github.com/wangruofeng/newsnow)）
 - 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
+- 🧰 **[Awesome Tools](https://awesome-tools.wangruofeng007.com/)** - 按类别整理的开源在线工具合集（[源码](https://github.com/wangruofeng/awesome-tools)）
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - 文本截图捕捉与 OCR 识别工具
 
 ### 🧰 在线工具集

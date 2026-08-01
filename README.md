@@ -40,6 +40,7 @@
 - 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - Bilingual visual dictionary for identifying UI elements, learning precise terminology, and generating prompts for coding agents ([Source](https://github.com/wangruofeng/learnui))
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - A modern news aggregation platform ([Source](https://github.com/wangruofeng/newsnow))
 - 🧩 **[Vecsy](https://vecsy.top/)** - Open Source SVG Editor & Vector Design Studio with live layer editing, preview, zoom, and undo/redo ([Source](https://github.com/wangruofeng/vecsy))
+- 🧰 **[Awesome Tools](https://awesome-tools.wangruofeng007.com/)** - Categorized collection of open-source online tools ([Source](https://github.com/wangruofeng/awesome-tools))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
 ### 🧰 Online Tools
