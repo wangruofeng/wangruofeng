@@ -2,7 +2,7 @@
 
 # Hi, I'm Wang Ruofeng 👋
 
-📍 **China** | 📱 **App Developer** | 🤖 **AI Application Builder**
+📍 **China** | 🛠️ **Independent Developer**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -15,9 +15,28 @@
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-> Building elegant iOS apps, cross-platform solutions with Flutter, and AI-powered applications that make a difference. Passionate about turning complex ideas into simple, beautiful user experiences.
+> I turn ideas across AI, mobile, and the web into shippable, maintainable, and user-friendly products—from interaction design to deployment.
 
-## Current Projects
+## What I Focus On
+
+- **Web products & online tools** - Building usable, reliable interactive web applications and shipping them.
+- **AI application integration** - Bringing LLM capabilities into practical product and content workflows.
+- **Mobile development** - Continuing native iOS and cross-platform Flutter development.
+- **Open source & knowledge sharing** - Sharing practical experience through tools, courses, and technical writing.
+
+## Featured Projects
+
+- 🧩 **[Vecsy](https://vecsy.top/)** - Open Source SVG Editor & Vector Design Studio with live layer editing, preview, zoom, and undo/redo ([Source](https://github.com/wangruofeng/vecsy))
+- 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - One-click Feishu-to-WeChat article formatting tool ([Source](https://github.com/wangruofeng/feishu2wx))
+- 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - Safe, fast, fully browser-based image compression tool ([Source](https://github.com/wangruofeng/img-compress))
+- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
+- 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
+
+## Explore All Projects
+
+🧰 **[Awesome Tools](https://awesome-tools.wangruofeng007.com/)** - Browse, search, and filter all the projects and online tools I maintain ([Source](https://github.com/wangruofeng/awesome-tools)).
+
+## Projects & Open Source
 
 ### 🌐 Web & Tools
 
@@ -30,8 +49,6 @@
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - Interactive demonstrations for the Web animation ecosystem, covering CSS, DOM, SVG, Canvas, WebGL/GPU, and popular animation frameworks ([Source](https://github.com/wangruofeng/web-animation))
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - A collection of skills that teach AI agents how to think through first-principles generation and adversarial review
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Simple command-line interface for Google Gemini API
-- 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - One-click Feishu-to-WeChat article formatting tool ([Source](https://github.com/wangruofeng/feishu2wx))
-- 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - Safe, fast, fully browser-based image compression tool ([Source](https://github.com/wangruofeng/img-compress))
 - 📅 **[lunar-birthday-reminder](https://blog.wangruofeng007.com/lunar-birthday-reminder/)** - Lunar birthday management and reminder app with multiple implementations ([Source](https://github.com/wangruofeng/lunar-birthday-reminder))
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - Real-time YouTube live stream translation tool
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
@@ -39,8 +56,6 @@
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
 - 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - Bilingual visual dictionary for identifying UI elements, learning precise terminology, and generating prompts for coding agents ([Source](https://github.com/wangruofeng/learnui))
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - A modern news aggregation platform ([Source](https://github.com/wangruofeng/newsnow))
-- 🧩 **[Vecsy](https://vecsy.top/)** - Open Source SVG Editor & Vector Design Studio with live layer editing, preview, zoom, and undo/redo ([Source](https://github.com/wangruofeng/vecsy))
-- 🧰 **[Awesome Tools](https://awesome-tools.wangruofeng007.com/)** - Categorized collection of open-source online tools ([Source](https://github.com/wangruofeng/awesome-tools))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
 ### 🧰 Online Tools
@@ -55,8 +70,6 @@
 - 💴 **[RMB Words](https://blog.wangruofeng007.com/rmb-words/)** - Convert amounts between numbers and uppercase RMB words ([Source](https://github.com/wangruofeng/rmb-words))
 - 📐 **[CSS Unit Converter](https://blog.wangruofeng007.com/css-unit-converter/)** - Convert CSS units in real time ([Source](https://github.com/wangruofeng/css-unit-converter))
 - 📝 **[.gitignore Generator](https://blog.wangruofeng007.com/git-ignore-generator/)** - Generate .gitignore files from technology-stack templates ([Source](https://github.com/wangruofeng/git-ignore-generator))
-- 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
-- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
 - 🗂️ **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - Format and inspect XML ([Source](https://github.com/wangruofeng/xml-viewer))
 - 📊 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - Preview, filter, and export CSV ([Source](https://github.com/wangruofeng/csv-viewer))
 - 📄 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - Format and inspect YAML ([Source](https://github.com/wangruofeng/yaml-viewer))
@@ -78,37 +91,23 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/wangruofeng)
 
-## What I'm Doing
-
-- **Building AI-powered apps** - Leveraging LLMs to create intelligent user experiences
-- **iOS & Flutter development** - Crafting smooth, performant mobile applications
-- **Exploring AI workflows** - Finding new ways to integrate AI into development processes
-- **Open source contributions** - Sharing tools and knowledge with the community
-
 ## Skills & Focus Areas
 
 ### Mobile Development
 
-- **iOS Native** - UIKit, Objectiv-C, Swift
-- **Cross-platform** - Flutter, React Native
-- **Mobile Architecture** - MVC, MVVM, Clean Architecture, BLoC
+- **Mobile** - UIKit, Objective-C, Swift, Flutter, React Native
 
-### Frontend Development
+### Web Development
 
-- **JavaScript/TypeScript** - Modern ES6+ features
-- **Frameworks** - React, Vue, Next.js
-- **Styling** - Tailwind CSS, CSS-in-JS
+- **Web** - JavaScript / TypeScript, React, Vue, Next.js, Astro, static sites, and online tools
 
 ### AI Integration
 
-- **LLM APIs** - OpenAI GPT, Claude, Gemini
-- **RAG & Vector DBs** - Knowledge retrieval systems
+- **AI application integration** - OpenAI, Claude, Gemini, RAG, and vector retrieval
 
-### Tools & Workflow
+### Engineering Practice
 
-- **Git & GitHub** - Version control and collaboration
-- **Xcode & VS Code** - Primary development environments
-- **CI/CD** - Automated testing and deployment
+- **Engineering** - Git/GitHub, Xcode, VS Code, and CI/CD
 
 ## Connect
 
@@ -123,7 +122,7 @@
 
 ### Philosophy
 
-> "Simple is better than complex" - I focus on creating clean, maintainable code and intuitive user experiences. Whether it's native iOS, Flutter apps, or AI-powered tools, I believe the best technology is the kind that solves real problems elegantly.
+> "Simple is better than complex" - I focus on clear, maintainable code and intuitive user experiences. Whether it is a mobile app, web product, or AI tool, I care most about solving real problems elegantly.
 
 <details>
 <summary>Random Facts</summary>

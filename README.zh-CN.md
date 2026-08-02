@@ -2,7 +2,7 @@
 
 # 你好，我是王若风 👋
 
-📍 **中国** | 📱 **App 开发者** | 🤖 **AI 应用构建者**
+📍 **中国** | 🛠️ **独立开发者**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -15,9 +15,28 @@
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-> 致力于打造优雅的 iOS 应用、跨平台 Flutter 解决方案，以及有影响力的 AI 应用。热衷于将复杂的想法转化为简洁、优美的用户体验。
+> 我把 AI、移动端与 Web 的想法做成可上线、可维护、体验友好的产品，关注从交互设计到部署交付的完整体验。
 
-## 当前项目
+## 我专注的方向
+
+- **Web 产品与在线工具** - 开发易用、性能可靠的交互式 Web 应用并完成上线交付。
+- **AI 应用集成** - 将 LLM 能力融入真实的产品和内容工作流。
+- **移动端开发** - 持续进行 iOS 原生与 Flutter 跨平台应用开发。
+- **开源与知识分享** - 通过工具、课程和技术文章沉淀实践经验。
+
+## 代表项目
+
+- 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
+- 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - 飞书文档一键转公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
+- 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - 安全、快速、完全基于浏览器的图片压缩工具（[源码](https://github.com/wangruofeng/img-compress)）
+- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
+- 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
+
+## 浏览全部项目
+
+🧰 **[Awesome Tools](https://awesome-tools.wangruofeng007.com/)** - 浏览、搜索和筛选我维护的全部项目与在线工具（[源码](https://github.com/wangruofeng/awesome-tools)）。
+
+## 项目与开源作品
 
 ### 🌐 Web & 工具
 
@@ -30,8 +49,6 @@
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - 系统化讲解 Web 动画技术体系的交互式演示站，覆盖 CSS、DOM、SVG、Canvas、WebGL / GPU 及常用动画框架（[源码](https://github.com/wangruofeng/web-animation)）
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - 教 AI agent 如何思考的 skill 集合，通过第一性原理生成、对抗式审查验证
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Google Gemini API 简易命令行工具
-- 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - 飞书文档一键转公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
-- 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - 安全、快速、完全基于浏览器的图片压缩工具（[源码](https://github.com/wangruofeng/img-compress)）
 - 📅 **[lunar-birthday-reminder](https://blog.wangruofeng007.com/lunar-birthday-reminder/)** - 农历生日管理与提醒应用，支持多套实现（[源码](https://github.com/wangruofeng/lunar-birthday-reminder)）
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - YouTube 直播实时翻译工具
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - 带 Web 界面的 Python FTP 服务器，方便文件共享
@@ -39,8 +56,6 @@
 - 🎨 **[儿童画作画廊](https://gallery.wangruofeng007.com/)** - 基于 Astro 构建的静态作品画廊，用于长期归档和展示儿童绘画作品
 - 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - 中英双语 UI 视觉词典：识别界面元素、理解真实术语，并生成可直接用于 coding agent 的 prompt（[源码](https://github.com/wangruofeng/learnui)）
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - 现代新闻聚合平台（[源码](https://github.com/wangruofeng/newsnow)）
-- 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
-- 🧰 **[Awesome Tools](https://awesome-tools.wangruofeng007.com/)** - 按类别整理的开源在线工具合集（[源码](https://github.com/wangruofeng/awesome-tools)）
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - 文本截图捕捉与 OCR 识别工具
 
 ### 🧰 在线工具集
@@ -55,8 +70,6 @@
 - 💴 **[金额大写转换](https://blog.wangruofeng007.com/rmb-words/)** - 人民币数字与大写金额双向转换（[源码](https://github.com/wangruofeng/rmb-words)）
 - 📐 **[CSS Unit Converter](https://blog.wangruofeng007.com/css-unit-converter/)** - CSS 单位实时换算（[源码](https://github.com/wangruofeng/css-unit-converter)）
 - 📝 **[.gitignore Generator](https://blog.wangruofeng007.com/git-ignore-generator/)** - 按技术栈模板生成 .gitignore 文件（[源码](https://github.com/wangruofeng/git-ignore-generator)）
-- 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
-- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
 - 🗂️ **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - XML 格式化与查看（[源码](https://github.com/wangruofeng/xml-viewer)）
 - 📊 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - CSV 预览、过滤与导出（[源码](https://github.com/wangruofeng/csv-viewer)）
 - 📄 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - YAML 格式化与查看（[源码](https://github.com/wangruofeng/yaml-viewer)）
@@ -78,37 +91,23 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/wangruofeng)
 
-## 我正在做的事情
-
-- **构建 AI 应用** - 利用大语言模型创造智能用户体验
-- **iOS & Flutter 开发** - 打造流畅、高效的移动应用
-- **探索 AI 工作流** - 寻找将 AI 融入开发流程的新方法
-- **开源贡献** - 与社区分享工具和知识
-
 ## 技能与专注领域
 
 ### 移动开发
 
-- **iOS 原生** - UIKit, Objective-C, Swift
-- **跨平台** - Flutter, React Native
-- **移动架构** - MVC, MVVM, Clean Architecture, BLoC
+- **移动端开发** - UIKit、Objective-C、Swift、Flutter、React Native
 
-### 前端开发
+### Web 开发
 
-- **JavaScript/TypeScript** - 现代 ES6+ 特性
-- **框架** - React, Vue, Next.js
-- **样式** - Tailwind CSS, CSS-in-JS
+- **Web 开发** - JavaScript / TypeScript、React、Vue、Next.js、Astro，以及静态站点与在线工具开发
 
 ### AI 集成
 
-- **大语言模型 API** - OpenAI GPT, Claude, Gemini
-- **RAG 与向量数据库** - 知识检索系统
+- **AI 应用集成** - OpenAI、Claude、Gemini、RAG 与向量检索
 
-### 工具与工作流
+### 工程实践
 
-- **Git & GitHub** - 版本控制与协作
-- **Xcode & VS Code** - 主要开发环境
-- **CI/CD** - 自动化测试与部署
+- **工程实践** - Git/GitHub、Xcode、VS Code、CI/CD
 
 ## 联系方式
 
@@ -123,7 +122,7 @@
 
 ### 理念
 
-> "简单优于复杂" — 我专注于打造简洁、可维护的代码和直观的用户体验。无论是原生 iOS、Flutter 应用还是 AI 工具，我相信最好的技术是能够优雅解决实际问题的那种。
+> "简单优于复杂" — 我专注于打造清晰、可维护的代码和直观的用户体验。无论是移动端、Web 产品还是 AI 工具，我都更关注它是否优雅地解决真实问题。
 
 <details>
 <summary>随机小 facts</summary>
