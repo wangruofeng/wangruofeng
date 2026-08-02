@@ -25,7 +25,7 @@
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Learn English vocabulary by breaking down roots, prefixes, and suffixes ([Source](https://github.com/wangruofeng/word-root-workshop))
 - 📐 **[SVG Learning](https://blog.wangruofeng007.com/svg-learning/)** - Interactive SVG guide from syntax to production ([Source](https://github.com/wangruofeng/svg-learning))
-- 🧾 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - Zero-dependency, browser-based JSON formatter and viewer with structured expand/collapse, field copying, and local parsing ([Source](https://github.com/wangruofeng/json-viewer))
+- 🔍 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - Zero-dependency, browser-based JSON formatter and viewer with structured expand/collapse, field copying, and local parsing ([Source](https://github.com/wangruofeng/json-viewer))
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - A collection of 140+ pure CSS, SVG, and Canvas web animation effects with live browser previews and bilingual UI ([Source](https://github.com/wangruofeng/animation-playground))
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - Interactive demonstrations for the Web animation ecosystem, covering CSS, DOM, SVG, Canvas, WebGL/GPU, and popular animation frameworks ([Source](https://github.com/wangruofeng/web-animation))
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - A collection of skills that teach AI agents how to think through first-principles generation and adversarial review
@@ -57,21 +57,21 @@
 - 📝 **[.gitignore Generator](https://blog.wangruofeng007.com/git-ignore-generator/)** - Generate .gitignore files from technology-stack templates ([Source](https://github.com/wangruofeng/git-ignore-generator))
 - 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
 - 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
-- 🧾 **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - Format and inspect XML ([Source](https://github.com/wangruofeng/xml-viewer))
-- 🧾 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - Preview, filter, and export CSV ([Source](https://github.com/wangruofeng/csv-viewer))
-- 🧾 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - Format and inspect YAML ([Source](https://github.com/wangruofeng/yaml-viewer))
-- 🧾 **[JWT Decoder](https://blog.wangruofeng007.com/jwt-decoder/)** - Decode JWTs and check expiry ([Source](https://github.com/wangruofeng/jwt-decoder))
-- 🧾 **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - Preview and edit HTML structure ([Source](https://github.com/wangruofeng/html-viewer))
-- 🧾 **[Diff Viewer](https://blog.wangruofeng007.com/diff-viewer/)** - Compare text differences ([Source](https://github.com/wangruofeng/diff-viewer))
-- 🧾 **[Regex Tester](https://blog.wangruofeng007.com/regex-tester/)** - Test regex matches and replacements ([Source](https://github.com/wangruofeng/regex-tester))
-- 🧾 **[Timestamp Converter](https://blog.wangruofeng007.com/timestamp-converter/)** - Convert timestamps and dates ([Source](https://github.com/wangruofeng/timestamp-converter))
-- 🧾 **[JSON to Code](https://blog.wangruofeng007.com/json-to-code/)** - Generate TypeScript, Go, and Python from JSON ([Source](https://github.com/wangruofeng/json-to-code))
-- 🧾 **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Explain cron expressions and next runs ([Source](https://github.com/wangruofeng/cron-viewer))
-- 🧾 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - Convert JSON, YAML, XML, and CSV ([Source](https://github.com/wangruofeng/data-converter))
+- 🗂️ **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - Format and inspect XML ([Source](https://github.com/wangruofeng/xml-viewer))
+- 📊 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - Preview, filter, and export CSV ([Source](https://github.com/wangruofeng/csv-viewer))
+- 📄 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - Format and inspect YAML ([Source](https://github.com/wangruofeng/yaml-viewer))
+- 🔐 **[JWT Decoder](https://blog.wangruofeng007.com/jwt-decoder/)** - Decode JWTs and check expiry ([Source](https://github.com/wangruofeng/jwt-decoder))
+- 🖥️ **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - Preview and edit HTML structure ([Source](https://github.com/wangruofeng/html-viewer))
+- ↔️ **[Diff Viewer](https://blog.wangruofeng007.com/diff-viewer/)** - Compare text differences ([Source](https://github.com/wangruofeng/diff-viewer))
+- 🧪 **[Regex Tester](https://blog.wangruofeng007.com/regex-tester/)** - Test regex matches and replacements ([Source](https://github.com/wangruofeng/regex-tester))
+- ⏱️ **[Timestamp Converter](https://blog.wangruofeng007.com/timestamp-converter/)** - Convert timestamps and dates ([Source](https://github.com/wangruofeng/timestamp-converter))
+- ⚙️ **[JSON to Code](https://blog.wangruofeng007.com/json-to-code/)** - Generate TypeScript, Go, and Python from JSON ([Source](https://github.com/wangruofeng/json-to-code))
+- ⏰ **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Explain cron expressions and next runs ([Source](https://github.com/wangruofeng/cron-viewer))
+- 🔄 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - Convert JSON, YAML, XML, and CSV ([Source](https://github.com/wangruofeng/data-converter))
 
 ### 📱 Mobile Development
 
-- 🔄 **[RFSegmentView](https://github.com/wangruofeng/RFSegmentView)** - iOS-style segmented control for smooth view switching
+- 📱 **[RFSegmentView](https://github.com/wangruofeng/RFSegmentView)** - iOS-style segmented control for smooth view switching
 - ⏳ **[RFLoadingView](https://github.com/wangruofeng/RFLoadingView)** - Lightweight loading indicator with smooth animations
 
 ## GitHub Activity

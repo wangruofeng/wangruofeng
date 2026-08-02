@@ -25,7 +25,7 @@
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - 通过代码解读开源项目的中英文课程平台（[源码](https://github.com/wangruofeng/github-course)）
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - 通过拆解词根、前缀和后缀学习英语词汇（[源码](https://github.com/wangruofeng/word-root-workshop)）
 - 📐 **[SVG Learning](https://blog.wangruofeng007.com/svg-learning/)** - 从基础语法到生产实践的交互式 SVG 指南（[源码](https://github.com/wangruofeng/svg-learning)）
-- 🧾 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - 单文件、零依赖的浏览器 JSON 格式化与查看工具，支持结构化展开折叠、字段复制和本地解析（[源码](https://github.com/wangruofeng/json-viewer)）
+- 🔍 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - 单文件、零依赖的浏览器 JSON 格式化与查看工具，支持结构化展开折叠、字段复制和本地解析（[源码](https://github.com/wangruofeng/json-viewer)）
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - 140+ 个纯 CSS、SVG 和 Canvas 网页动画特效合集，支持浏览器本地实时预览与中英双语界面（[源码](https://github.com/wangruofeng/animation-playground)）
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - 系统化讲解 Web 动画技术体系的交互式演示站，覆盖 CSS、DOM、SVG、Canvas、WebGL / GPU 及常用动画框架（[源码](https://github.com/wangruofeng/web-animation)）
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - 教 AI agent 如何思考的 skill 集合，通过第一性原理生成、对抗式审查验证
@@ -57,21 +57,21 @@
 - 📝 **[.gitignore Generator](https://blog.wangruofeng007.com/git-ignore-generator/)** - 按技术栈模板生成 .gitignore 文件（[源码](https://github.com/wangruofeng/git-ignore-generator)）
 - 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
 - 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
-- 🧾 **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - XML 格式化与查看（[源码](https://github.com/wangruofeng/xml-viewer)）
-- 🧾 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - CSV 预览、过滤与导出（[源码](https://github.com/wangruofeng/csv-viewer)）
-- 🧾 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - YAML 格式化与查看（[源码](https://github.com/wangruofeng/yaml-viewer)）
-- 🧾 **[JWT Decoder](https://blog.wangruofeng007.com/jwt-decoder/)** - JWT 解码与过期检查（[源码](https://github.com/wangruofeng/jwt-decoder)）
-- 🧾 **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - HTML 结构预览与编辑（[源码](https://github.com/wangruofeng/html-viewer)）
-- 🧾 **[Diff Viewer](https://blog.wangruofeng007.com/diff-viewer/)** - 文本差异对比（[源码](https://github.com/wangruofeng/diff-viewer)）
-- 🧾 **[Regex Tester](https://blog.wangruofeng007.com/regex-tester/)** - 正则匹配与替换测试（[源码](https://github.com/wangruofeng/regex-tester)）
-- 🧾 **[Timestamp Converter](https://blog.wangruofeng007.com/timestamp-converter/)** - 时间戳与日期转换（[源码](https://github.com/wangruofeng/timestamp-converter)）
-- 🧾 **[JSON to Code](https://blog.wangruofeng007.com/json-to-code/)** - JSON 生成 TypeScript、Go、Python 代码（[源码](https://github.com/wangruofeng/json-to-code)）
-- 🧾 **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Cron 解析与触发时间查看（[源码](https://github.com/wangruofeng/cron-viewer)）
-- 🧾 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - JSON、YAML、XML、CSV 互转（[源码](https://github.com/wangruofeng/data-converter)）
+- 🗂️ **[XML Viewer](https://blog.wangruofeng007.com/xml-viewer/)** - XML 格式化与查看（[源码](https://github.com/wangruofeng/xml-viewer)）
+- 📊 **[CSV Viewer](https://blog.wangruofeng007.com/csv-viewer/)** - CSV 预览、过滤与导出（[源码](https://github.com/wangruofeng/csv-viewer)）
+- 📄 **[YAML Viewer](https://blog.wangruofeng007.com/yaml-viewer/)** - YAML 格式化与查看（[源码](https://github.com/wangruofeng/yaml-viewer)）
+- 🔐 **[JWT Decoder](https://blog.wangruofeng007.com/jwt-decoder/)** - JWT 解码与过期检查（[源码](https://github.com/wangruofeng/jwt-decoder)）
+- 🖥️ **[HTML Viewer](https://blog.wangruofeng007.com/html-viewer/)** - HTML 结构预览与编辑（[源码](https://github.com/wangruofeng/html-viewer)）
+- ↔️ **[Diff Viewer](https://blog.wangruofeng007.com/diff-viewer/)** - 文本差异对比（[源码](https://github.com/wangruofeng/diff-viewer)）
+- 🧪 **[Regex Tester](https://blog.wangruofeng007.com/regex-tester/)** - 正则匹配与替换测试（[源码](https://github.com/wangruofeng/regex-tester)）
+- ⏱️ **[Timestamp Converter](https://blog.wangruofeng007.com/timestamp-converter/)** - 时间戳与日期转换（[源码](https://github.com/wangruofeng/timestamp-converter)）
+- ⚙️ **[JSON to Code](https://blog.wangruofeng007.com/json-to-code/)** - JSON 生成 TypeScript、Go、Python 代码（[源码](https://github.com/wangruofeng/json-to-code)）
+- ⏰ **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Cron 解析与触发时间查看（[源码](https://github.com/wangruofeng/cron-viewer)）
+- 🔄 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - JSON、YAML、XML、CSV 互转（[源码](https://github.com/wangruofeng/data-converter)）
 
 ### 📱 移动开发
 
-- 🔄 **[RFSegmentView](https://github.com/wangruofeng/RFSegmentView)** - iOS 风格的分段控制组件，流畅切换视图
+- 📱 **[RFSegmentView](https://github.com/wangruofeng/RFSegmentView)** - iOS 风格的分段控制组件，流畅切换视图
 - ⏳ **[RFLoadingView](https://github.com/wangruofeng/RFLoadingView)** - 轻量级加载指示器，动画流畅
 
 ## GitHub 活动
