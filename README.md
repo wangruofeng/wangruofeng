@@ -95,19 +95,19 @@
 
 ### Mobile Development
 
-- **Mobile** - UIKit, Objective-C, Swift, Flutter, React Native
+UIKit, Objective-C, Swift, Flutter, React Native
 
 ### Web Development
 
-- **Web** - JavaScript / TypeScript, React, Vue, Next.js, Astro, static sites, and online tools
+JavaScript / TypeScript, React, Vue, Next.js, Astro, static sites, and online tools
 
 ### AI Integration
 
-- **AI application integration** - OpenAI, Claude, Gemini, RAG, and vector retrieval
+OpenAI, Claude, Gemini, RAG, and vector retrieval
 
 ### Engineering Practice
 
-- **Engineering** - Git/GitHub, Xcode, VS Code, and CI/CD
+Git/GitHub, Xcode, VS Code, and CI/CD
 
 ## Connect
 

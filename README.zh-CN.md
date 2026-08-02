@@ -95,19 +95,19 @@
 
 ### 移动开发
 
-- **移动端开发** - UIKit、Objective-C、Swift、Flutter、React Native
+UIKit、Objective-C、Swift、Flutter、React Native
 
 ### Web 开发
 
-- **Web 开发** - JavaScript / TypeScript、React、Vue、Next.js、Astro，以及静态站点与在线工具开发
+JavaScript / TypeScript、React、Vue、Next.js、Astro，以及静态站点与在线工具开发
 
 ### AI 集成
 
-- **AI 应用集成** - OpenAI、Claude、Gemini、RAG 与向量检索
+OpenAI、Claude、Gemini、RAG 与向量检索
 
 ### 工程实践
 
-- **工程实践** - Git/GitHub、Xcode、VS Code、CI/CD
+Git/GitHub、Xcode、VS Code、CI/CD
 
 ## 联系方式
 
