@@ -30,7 +30,7 @@
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - One-click Feishu-to-WeChat article formatting tool ([Source](https://github.com/wangruofeng/feishu2wx))
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - Safe, fast, fully browser-based image compression tool ([Source](https://github.com/wangruofeng/img-compress))
 - 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
-- 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
+- 😀 **[Emoji Picker](https://emoji-picker.wangruofeng007.com/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
 
 ## Explore All Projects
 

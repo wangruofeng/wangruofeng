@@ -30,7 +30,7 @@
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - 飞书文档一键转公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - 安全、快速、完全基于浏览器的图片压缩工具（[源码](https://github.com/wangruofeng/img-compress)）
 - 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
-- 😀 **[Emoji Picker](https://blog.wangruofeng007.com/emoji-picker/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
+- 😀 **[Emoji Picker](https://emoji-picker.wangruofeng007.com/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
 
 ## 浏览全部项目
 
