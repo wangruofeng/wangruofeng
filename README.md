@@ -27,10 +27,12 @@
 ## Featured Projects
 
 - 🧩 **[Vecsy](https://vecsy.top/)** - Open Source SVG Editor & Vector Design Studio with live layer editing, preview, zoom, and undo/redo ([Source](https://github.com/wangruofeng/vecsy))
+- 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - Bilingual visual dictionary for identifying UI elements, learning precise terminology, and generating prompts for coding agents ([Source](https://github.com/wangruofeng/learnui))
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - One-click Feishu-to-WeChat article formatting tool ([Source](https://github.com/wangruofeng/feishu2wx))
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - Safe, fast, fully browser-based image compression tool ([Source](https://github.com/wangruofeng/img-compress))
-- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
 - 😀 **[Emoji Picker](https://emoji-picker.wangruofeng007.com/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
+- ✦ **[Unicode Symbol Picker](https://blog.wangruofeng007.com/unicode-picker/)** - Search, inspect, and copy Unicode symbols ([Source](https://github.com/wangruofeng/unicode-picker))
+- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
 
 ## Explore All Projects
 
@@ -54,7 +56,6 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
-- 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - Bilingual visual dictionary for identifying UI elements, learning precise terminology, and generating prompts for coding agents ([Source](https://github.com/wangruofeng/learnui))
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - A modern news aggregation platform ([Source](https://github.com/wangruofeng/newsnow))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
@@ -62,7 +63,6 @@
 
 - ▦ **[QR Tool](https://blog.wangruofeng007.com/qr-tool/)** - Generate, scan, and export QR codes ([Source](https://github.com/wangruofeng/qr-tool))
 - #️⃣ **[File Hash Checker](https://blog.wangruofeng007.com/file-hash/)** - Calculate and verify file hashes locally ([Source](https://github.com/wangruofeng/file-hash))
-- ✦ **[Unicode Symbol Picker](https://blog.wangruofeng007.com/unicode-picker/)** - Search, inspect, and copy Unicode symbols ([Source](https://github.com/wangruofeng/unicode-picker))
 - 🪪 **[ID Card Parser](https://blog.wangruofeng007.com/id-card/)** - Parse and validate Chinese ID card numbers locally ([Source](https://github.com/wangruofeng/id-card))
 - 🧮 **[Tax Calculator](https://blog.wangruofeng007.com/tax-calc/)** - Calculate Chinese individual income tax and annual bonuses ([Source](https://github.com/wangruofeng/tax-calc))
 - 🏠 **[Mortgage Calculator](https://blog.wangruofeng007.com/mortgage-calc/)** - Calculate mortgage repayments and early repayments ([Source](https://github.com/wangruofeng/mortgage-calc))

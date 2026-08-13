@@ -27,10 +27,13 @@
 ## 代表项目
 
 - 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
+- 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - 中英双语 UI 视觉词典：识别界面元素、理解真实术语，并生成可直接用于 coding agent 的 prompt（[源码](https://github.com/wangruofeng/learnui)）
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - 飞书文档一键转公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - 安全、快速、完全基于浏览器的图片压缩工具（[源码](https://github.com/wangruofeng/img-compress)）
-- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
 - 😀 **[Emoji Picker](https://emoji-picker.wangruofeng007.com/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
+- ✦ **[Unicode 符号选择器](https://blog.wangruofeng007.com/unicode-picker/)** - Unicode 符号搜索、编码查看与复制（[源码](https://github.com/wangruofeng/unicode-picker)）
+- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
+
 
 ## 浏览全部项目
 
@@ -54,7 +57,6 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - 带 Web 界面的 Python FTP 服务器，方便文件共享
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - 经典 Web 目录索引界面的 FTP 服务器
 - 🎨 **[儿童画作画廊](https://gallery.wangruofeng007.com/)** - 基于 Astro 构建的静态作品画廊，用于长期归档和展示儿童绘画作品
-- 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - 中英双语 UI 视觉词典：识别界面元素、理解真实术语，并生成可直接用于 coding agent 的 prompt（[源码](https://github.com/wangruofeng/learnui)）
 - 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - 现代新闻聚合平台（[源码](https://github.com/wangruofeng/newsnow)）
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - 文本截图捕捉与 OCR 识别工具
 
@@ -62,7 +64,6 @@
 
 - ▦ **[二维码工具](https://blog.wangruofeng007.com/qr-tool/)** - 二维码生成、识别与导出（[源码](https://github.com/wangruofeng/qr-tool)）
 - #️⃣ **[文件哈希校验](https://blog.wangruofeng007.com/file-hash/)** - 本地计算与比对文件哈希值（[源码](https://github.com/wangruofeng/file-hash)）
-- ✦ **[Unicode 符号选择器](https://blog.wangruofeng007.com/unicode-picker/)** - Unicode 符号搜索、编码查看与复制（[源码](https://github.com/wangruofeng/unicode-picker)）
 - 🪪 **[身份证解析校验](https://blog.wangruofeng007.com/id-card/)** - 身份证号码本地解析与校验（[源码](https://github.com/wangruofeng/id-card)）
 - 🧮 **[个税计算器](https://blog.wangruofeng007.com/tax-calc/)** - 中国个人所得税与年终奖测算（[源码](https://github.com/wangruofeng/tax-calc)）
 - 🏠 **[房贷计算器](https://blog.wangruofeng007.com/mortgage-calc/)** - 房贷还款与提前还款测算（[源码](https://github.com/wangruofeng/mortgage-calc)）
