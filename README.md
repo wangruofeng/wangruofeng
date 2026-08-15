@@ -53,6 +53,7 @@
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Simple command-line interface for Google Gemini API
 - 📅 **[lunar-birthday-reminder](https://blog.wangruofeng007.com/lunar-birthday-reminder/)** - Lunar birthday management and reminder app with multiple implementations ([Source](https://github.com/wangruofeng/lunar-birthday-reminder))
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - Real-time YouTube live stream translation tool
+- ▶️ **[youtube-digest](https://github.com/wangruofeng/youtube-digest)** - Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes (bring your own API keys)
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
