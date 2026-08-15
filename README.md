@@ -83,11 +83,6 @@
 - ⏰ **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Explain cron expressions and next runs ([Source](https://github.com/wangruofeng/cron-viewer))
 - 🔄 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - Convert JSON, YAML, XML, and CSV ([Source](https://github.com/wangruofeng/data-converter))
 
-### 📱 Mobile Development
-
-- 📱 **[RFSegmentView](https://github.com/wangruofeng/RFSegmentView)** - iOS-style segmented control for smooth view switching
-- ⏳ **[RFLoadingView](https://github.com/wangruofeng/RFLoadingView)** - Lightweight loading indicator with smooth animations
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/wangruofeng)

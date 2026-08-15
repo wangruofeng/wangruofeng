@@ -84,11 +84,6 @@
 - ⏰ **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Cron 解析与触发时间查看（[源码](https://github.com/wangruofeng/cron-viewer)）
 - 🔄 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - JSON、YAML、XML、CSV 互转（[源码](https://github.com/wangruofeng/data-converter)）
 
-### 📱 移动开发
-
-- 📱 **[RFSegmentView](https://github.com/wangruofeng/RFSegmentView)** - iOS 风格的分段控制组件，流畅切换视图
-- ⏳ **[RFLoadingView](https://github.com/wangruofeng/RFLoadingView)** - 轻量级加载指示器，动画流畅
-
 ## GitHub 活动
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/wangruofeng)
