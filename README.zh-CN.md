@@ -51,6 +51,7 @@
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - 140+ 个纯 CSS、SVG 和 Canvas 网页动画特效合集，支持浏览器本地实时预览与中英双语界面（[源码](https://github.com/wangruofeng/animation-playground)）
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - 系统化讲解 Web 动画技术体系的交互式演示站，覆盖 CSS、DOM、SVG、Canvas、WebGL / GPU 及常用动画框架（[源码](https://github.com/wangruofeng/web-animation)）
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - 教 AI agent 如何思考的 skill 集合，通过第一性原理生成、对抗式审查验证
+- 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills 控制中心：初始化项目环境、同步跨平台配置、快速安装第三方 Skill
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Google Gemini API 简易命令行工具
 - 📅 **[lunar-birthday-reminder](https://blog.wangruofeng007.com/lunar-birthday-reminder/)** - 农历生日管理与提醒应用，支持多套实现（[源码](https://github.com/wangruofeng/lunar-birthday-reminder)）
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - YouTube 直播实时翻译工具

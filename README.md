@@ -50,6 +50,7 @@
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - A collection of 140+ pure CSS, SVG, and Canvas web animation effects with live browser previews and bilingual UI ([Source](https://github.com/wangruofeng/animation-playground))
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - Interactive demonstrations for the Web animation ecosystem, covering CSS, DOM, SVG, Canvas, WebGL/GPU, and popular animation frameworks ([Source](https://github.com/wangruofeng/web-animation))
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - A collection of skills that teach AI agents how to think through first-principles generation and adversarial review
+- 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills control center: initialize project environments, sync cross-platform configs, and install third-party skills
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Simple command-line interface for Google Gemini API
 - 📅 **[lunar-birthday-reminder](https://blog.wangruofeng007.com/lunar-birthday-reminder/)** - Lunar birthday management and reminder app with multiple implementations ([Source](https://github.com/wangruofeng/lunar-birthday-reminder))
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - Real-time YouTube live stream translation tool
