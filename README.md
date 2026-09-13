@@ -29,6 +29,7 @@
 - 🧩 **[Vecsy](https://vecsy.top/)** - Open Source SVG Editor & Vector Design Studio with live layer editing, preview, zoom, and undo/redo ([Source](https://github.com/wangruofeng/vecsy))
 - 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - Bilingual visual dictionary for identifying UI elements, learning precise terminology, and generating prompts for coding agents ([Source](https://github.com/wangruofeng/learnui))
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - One-click Feishu-to-WeChat article formatting tool ([Source](https://github.com/wangruofeng/feishu2wx))
+- 🖼️ **[MD2Img](https://md2img.wangruofeng007.com/)** - Turn one Markdown document into a set of ready-to-post Xiaohongshu card images with automatic pagination, nine color themes, and ZIP export ([Source](https://github.com/wangruofeng/md2img))
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - Safe, fast, fully browser-based image compression tool ([Source](https://github.com/wangruofeng/img-compress))
 - 😀 **[Emoji Picker](https://emoji-picker.wangruofeng007.com/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
 - ✦ **[Unicode Symbol Picker](https://blog.wangruofeng007.com/unicode-picker/)** - Search, inspect, and copy Unicode symbols ([Source](https://github.com/wangruofeng/unicode-picker))

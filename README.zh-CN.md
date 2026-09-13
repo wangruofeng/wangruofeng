@@ -29,6 +29,7 @@
 - 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
 - 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - 中英双语 UI 视觉词典：识别界面元素、理解真实术语，并生成可直接用于 coding agent 的 prompt（[源码](https://github.com/wangruofeng/learnui)）
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - 飞书文档一键转公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
+- 🖼️ **[MD2Img](https://md2img.wangruofeng007.com/)** - 把一篇 Markdown 一键生成可发布的小红书系列图文卡片，自动分页、九套配色、实时预览与导出（[源码](https://github.com/wangruofeng/md2img)）
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - 安全、快速、完全基于浏览器的图片压缩工具（[源码](https://github.com/wangruofeng/img-compress)）
 - 😀 **[Emoji Picker](https://emoji-picker.wangruofeng007.com/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
 - ✦ **[Unicode 符号选择器](https://blog.wangruofeng007.com/unicode-picker/)** - Unicode 符号搜索、编码查看与复制（[源码](https://github.com/wangruofeng/unicode-picker)）
