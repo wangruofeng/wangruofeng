@@ -26,14 +26,16 @@
 
 ## Featured Projects
 
+- 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills control center: initialize project environments, sync cross-platform configs, and install third-party skills
 - 🧩 **[Vecsy](https://vecsy.top/)** - Open Source SVG Editor & Vector Design Studio with live layer editing, preview, zoom, and undo/redo ([Source](https://github.com/wangruofeng/vecsy))
-- 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - Bilingual visual dictionary for identifying UI elements, learning precise terminology, and generating prompts for coding agents ([Source](https://github.com/wangruofeng/learnui))
-- 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - One-click Feishu-to-WeChat article formatting tool ([Source](https://github.com/wangruofeng/feishu2wx))
+- 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - Turn Markdown and Feishu docs into WeChat Official Account layouts ([Source](https://github.com/wangruofeng/feishu2wx))
 - 🖼️ **[MD2Img](https://md2img.wangruofeng007.com/)** - Turn one Markdown document into a set of ready-to-post Xiaohongshu card images with automatic pagination, nine color themes, and ZIP export ([Source](https://github.com/wangruofeng/md2img))
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - Safe, fast, fully browser-based image compression tool ([Source](https://github.com/wangruofeng/img-compress))
+- ▶️ **[youtube-digest](https://github.com/wangruofeng/youtube-digest)** - Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes (bring your own API keys)
+- 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - A real-time and trending news aggregator ([Source](https://github.com/wangruofeng/newsnow))
+- 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - Bilingual visual dictionary for identifying UI elements, learning precise terminology, and generating prompts for coding agents ([Source](https://github.com/wangruofeng/learnui))
 - 😀 **[Emoji Picker](https://emoji-picker.wangruofeng007.com/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
-- ✦ **[Unicode Symbol Picker](https://blog.wangruofeng007.com/unicode-picker/)** - Search, inspect, and copy Unicode symbols ([Source](https://github.com/wangruofeng/unicode-picker))
-- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
+- 🔥 **[AI Viral Insights](https://aihot.wangruofeng007.com/)** - Daily snapshots and topic signals for viral AI articles across WeChat, Zhihu, and GitHub Trending
 
 ## Explore All Projects
 
@@ -51,15 +53,12 @@
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - A collection of 140+ pure CSS, SVG, and Canvas web animation effects with live browser previews and bilingual UI ([Source](https://github.com/wangruofeng/animation-playground))
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - Interactive demonstrations for the Web animation ecosystem, covering CSS, DOM, SVG, Canvas, WebGL/GPU, and popular animation frameworks ([Source](https://github.com/wangruofeng/web-animation))
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - A collection of skills that teach AI agents how to think through first-principles generation and adversarial review
-- 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills control center: initialize project environments, sync cross-platform configs, and install third-party skills
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Simple command-line interface for Google Gemini API
 - 📅 **[lunar-birthday-reminder](https://blog.wangruofeng007.com/lunar-birthday-reminder/)** - Lunar birthday management and reminder app with multiple implementations ([Source](https://github.com/wangruofeng/lunar-birthday-reminder))
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - Real-time YouTube live stream translation tool
-- ▶️ **[youtube-digest](https://github.com/wangruofeng/youtube-digest)** - Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes (bring your own API keys)
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
-- 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - A modern news aggregation platform ([Source](https://github.com/wangruofeng/newsnow))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
 ### 🧰 Online Tools
@@ -84,6 +83,8 @@
 - ⚙️ **[JSON to Code](https://blog.wangruofeng007.com/json-to-code/)** - Generate TypeScript, Go, and Python from JSON ([Source](https://github.com/wangruofeng/json-to-code))
 - ⏰ **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Explain cron expressions and next runs ([Source](https://github.com/wangruofeng/cron-viewer))
 - 🔄 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - Convert JSON, YAML, XML, and CSV ([Source](https://github.com/wangruofeng/data-converter))
+- ✦ **[Unicode Symbol Picker](https://blog.wangruofeng007.com/unicode-picker/)** - Search, inspect, and copy Unicode symbols ([Source](https://github.com/wangruofeng/unicode-picker))
+- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
 
 ## GitHub Activity
 

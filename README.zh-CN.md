@@ -26,14 +26,16 @@
 
 ## 代表项目
 
+- 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills 控制中心：初始化项目环境、同步跨平台配置、快速安装第三方 Skill
 - 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
-- 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - 中英双语 UI 视觉词典：识别界面元素、理解真实术语，并生成可直接用于 coding agent 的 prompt（[源码](https://github.com/wangruofeng/learnui)）
-- 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - 飞书文档一键转公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
+- 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - MD & 飞书文档转微信公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
 - 🖼️ **[MD2Img](https://md2img.wangruofeng007.com/)** - 把一篇 Markdown 一键生成可发布的小红书系列图文卡片，自动分页、九套配色、实时预览与导出（[源码](https://github.com/wangruofeng/md2img)）
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - 安全、快速、完全基于浏览器的图片压缩工具（[源码](https://github.com/wangruofeng/img-compress)）
+- ▶️ **[youtube-digest](https://github.com/wangruofeng/youtube-digest)** - 将 YouTube 视频转化为深度学习资源，支持字幕、双语翻译、AI 概览、讲解与笔记（自带 API Key）
+- 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - 实时与热门新闻聚合阅读平台（[源码](https://github.com/wangruofeng/newsnow)）
+- 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - 中英双语 UI 视觉词典：识别界面元素、理解真实术语，并生成可直接用于 coding agent 的 prompt（[源码](https://github.com/wangruofeng/learnui)）
 - 😀 **[Emoji Picker](https://emoji-picker.wangruofeng007.com/)** - 多语言 Emoji 搜索、详情查看与复制（[源码](https://github.com/wangruofeng/emoji-picker)）
-- ✦ **[Unicode 符号选择器](https://blog.wangruofeng007.com/unicode-picker/)** - Unicode 符号搜索、编码查看与复制（[源码](https://github.com/wangruofeng/unicode-picker)）
-- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
+- 🔥 **[公众号 AI 爆款洞察](https://aihot.wangruofeng007.com/)** - AI 领域爆款文章每日快照与选题洞察，覆盖公众号热榜、知乎热榜与 GitHub Trending
 
 
 ## 浏览全部项目
@@ -52,15 +54,12 @@
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - 140+ 个纯 CSS、SVG 和 Canvas 网页动画特效合集，支持浏览器本地实时预览与中英双语界面（[源码](https://github.com/wangruofeng/animation-playground)）
 - 🎬 **[Web Animation](https://web-animation.wangruofeng007.com/)** - 系统化讲解 Web 动画技术体系的交互式演示站，覆盖 CSS、DOM、SVG、Canvas、WebGL / GPU 及常用动画框架（[源码](https://github.com/wangruofeng/web-animation)）
 - 🧠 **[meta-skill](https://github.com/wangruofeng/meta-skill)** - 教 AI agent 如何思考的 skill 集合，通过第一性原理生成、对抗式审查验证
-- 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills 控制中心：初始化项目环境、同步跨平台配置、快速安装第三方 Skill
 - 🔧 **[simple-gemini-cli](https://github.com/wangruofeng/simple-gemini-cli)** - Google Gemini API 简易命令行工具
 - 📅 **[lunar-birthday-reminder](https://blog.wangruofeng007.com/lunar-birthday-reminder/)** - 农历生日管理与提醒应用，支持多套实现（[源码](https://github.com/wangruofeng/lunar-birthday-reminder)）
 - 🎬 **[youtube-live-translate](https://github.com/wangruofeng/youtube-live-translate)** - YouTube 直播实时翻译工具
-- ▶️ **[youtube-digest](https://github.com/wangruofeng/youtube-digest)** - 将 YouTube 视频转化为深度学习资源，支持字幕、双语翻译、AI 概览、讲解与笔记（自带 API Key）
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - 带 Web 界面的 Python FTP 服务器，方便文件共享
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - 经典 Web 目录索引界面的 FTP 服务器
 - 🎨 **[儿童画作画廊](https://gallery.wangruofeng007.com/)** - 基于 Astro 构建的静态作品画廊，用于长期归档和展示儿童绘画作品
-- 📰 **[NewsNow](https://newsnow.wangruofeng007.com/)** - 现代新闻聚合平台（[源码](https://github.com/wangruofeng/newsnow)）
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - 文本截图捕捉与 OCR 识别工具
 
 ### 🧰 在线工具集
@@ -85,6 +84,8 @@
 - ⚙️ **[JSON to Code](https://blog.wangruofeng007.com/json-to-code/)** - JSON 生成 TypeScript、Go、Python 代码（[源码](https://github.com/wangruofeng/json-to-code)）
 - ⏰ **[Cron Viewer](https://blog.wangruofeng007.com/cron-viewer/)** - Cron 解析与触发时间查看（[源码](https://github.com/wangruofeng/cron-viewer)）
 - 🔄 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - JSON、YAML、XML、CSV 互转（[源码](https://github.com/wangruofeng/data-converter)）
+- ✦ **[Unicode 符号选择器](https://blog.wangruofeng007.com/unicode-picker/)** - Unicode 符号搜索、编码查看与复制（[源码](https://github.com/wangruofeng/unicode-picker)）
+- 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
 
 ## GitHub 活动
 
