@@ -86,6 +86,7 @@
 - 🔄 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - JSON、YAML、XML、CSV 互转（[源码](https://github.com/wangruofeng/data-converter)）
 - ✦ **[Unicode 符号选择器](https://blog.wangruofeng007.com/unicode-picker/)** - Unicode 符号搜索、编码查看与复制（[源码](https://github.com/wangruofeng/unicode-picker)）
 - 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - 多语言国家与地区信息速查（[源码](https://github.com/wangruofeng/country-info)）
+- 🤖 **[AI 模型目录](https://blog.wangruofeng007.com/ai-models/)** - 按提供商浏览与筛选 AI 大模型，速查上下文窗口与输入/输出/缓存价格（[源码](https://github.com/wangruofeng/ai-models)）
 
 ## GitHub 活动
 

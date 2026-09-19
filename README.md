@@ -85,6 +85,7 @@
 - 🔄 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - Convert JSON, YAML, XML, and CSV ([Source](https://github.com/wangruofeng/data-converter))
 - ✦ **[Unicode Symbol Picker](https://blog.wangruofeng007.com/unicode-picker/)** - Search, inspect, and copy Unicode symbols ([Source](https://github.com/wangruofeng/unicode-picker))
 - 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
+- 🤖 **[AI Model Catalog](https://blog.wangruofeng007.com/ai-models/)** - Browse and filter AI models by provider, with context windows and input/output/cache pricing ([Source](https://github.com/wangruofeng/ai-models))
 
 ## GitHub Activity
 
