@@ -26,7 +26,7 @@
 
 ## 代表项目
 
-- ✨ **[AI 生图提示词库](https://gpt-image.wangruofeng007.com/)** - 精选 AI 生图风格提示词与样张，支持搜索、筛选与一键复制（[源码](https://github.com/wangruofeng/prompts-collect)）
+- ✨ **[AI 生图提示词库](https://gpt-image.wangruofeng007.com/)** - 精选 AI 生图风格提示词与样张，支持搜索、筛选与一键复制
 - 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills 控制中心：初始化项目环境、同步跨平台配置、快速安装第三方 Skill
 - 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - MD & 飞书文档转微信公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
