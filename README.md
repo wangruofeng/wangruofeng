@@ -59,6 +59,7 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
+- ✨ **[AI Image Prompt Library](https://gpt-image.wangruofeng007.com/)** - A curated library of AI image style prompts with sample images, search, filters, and one-click copy ([Source](https://github.com/wangruofeng/prompts-collect))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
 ### 🧰 Online Tools
