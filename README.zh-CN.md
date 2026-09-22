@@ -26,6 +26,7 @@
 
 ## 代表项目
 
+- ✨ **[AI 生图提示词库](https://gpt-image.wangruofeng007.com/)** - 精选 AI 生图风格提示词与样张，支持搜索、筛选与一键复制（[源码](https://github.com/wangruofeng/prompts-collect)）
 - 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills 控制中心：初始化项目环境、同步跨平台配置、快速安装第三方 Skill
 - 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - MD & 飞书文档转微信公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
@@ -60,7 +61,6 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - 带 Web 界面的 Python FTP 服务器，方便文件共享
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - 经典 Web 目录索引界面的 FTP 服务器
 - 🎨 **[儿童画作画廊](https://gallery.wangruofeng007.com/)** - 基于 Astro 构建的静态作品画廊，用于长期归档和展示儿童绘画作品
-- ✨ **[AI 生图提示词库](https://gpt-image.wangruofeng007.com/)** - 精选 AI 生图风格提示词与样张，支持搜索、筛选与一键复制（[源码](https://github.com/wangruofeng/prompts-collect)）
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - 文本截图捕捉与 OCR 识别工具
 
 ### 🧰 在线工具集

@@ -26,6 +26,7 @@
 
 ## Featured Projects
 
+- ✨ **[AI Image Prompt Library](https://gpt-image.wangruofeng007.com/)** - A curated library of AI image style prompts with sample images, search, filters, and one-click copy ([Source](https://github.com/wangruofeng/prompts-collect))
 - 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills control center: initialize project environments, sync cross-platform configs, and install third-party skills
 - 🧩 **[Vecsy](https://vecsy.top/)** - Open Source SVG Editor & Vector Design Studio with live layer editing, preview, zoom, and undo/redo ([Source](https://github.com/wangruofeng/vecsy))
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - Turn Markdown and Feishu docs into WeChat Official Account layouts ([Source](https://github.com/wangruofeng/feishu2wx))
@@ -59,7 +60,6 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
-- ✨ **[AI Image Prompt Library](https://gpt-image.wangruofeng007.com/)** - A curated library of AI image style prompts with sample images, search, filters, and one-click copy ([Source](https://github.com/wangruofeng/prompts-collect))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
 ### 🧰 Online Tools
