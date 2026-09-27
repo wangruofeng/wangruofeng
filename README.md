@@ -46,6 +46,10 @@
 
 ### 🌐 Web & Tools
 
+- 📋 **[X Post Copy](https://github.com/wangruofeng/chrome-copy)** - Lightweight Chrome extension that adds one-click plain-text copying to X posts
+- ✨ **[AI Image Prompt Library](https://gpt-image.wangruofeng007.com/)** - Searchable and filterable AI image prompts with sample images and one-click copy ([Source](https://github.com/wangruofeng/prompts-collect))
+- 🗞️ **[AI News](https://github.com/wangruofeng/ai-news)** - Static AI news site aggregating RSS, Atom, and curated sources
+- 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - Searchable, categorized static bookmark collection with local favorites
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - Learn 30 core Large Language Model concepts ([Source](https://github.com/wangruofeng/big-model-terms))
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Learn English vocabulary by breaking down roots, prefixes, and suffixes ([Source](https://github.com/wangruofeng/word-root-workshop))
