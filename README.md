@@ -53,6 +53,7 @@
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - Learn 30 core Large Language Model concepts ([Source](https://github.com/wangruofeng/big-model-terms))
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - Learn English vocabulary by breaking down roots, prefixes, and suffixes ([Source](https://github.com/wangruofeng/word-root-workshop))
+- 🧊 **[Learn Three.js](https://blog.wangruofeng007.com/learn-threejs/)** - 30 interactive Three.js lessons, from the first cube to depth-of-field post-processing ([Source](https://github.com/wangruofeng/learn-threejs))
 - 📐 **[SVG Learning](https://blog.wangruofeng007.com/svg-learning/)** - Interactive SVG guide from syntax to production ([Source](https://github.com/wangruofeng/svg-learning))
 - 🔍 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - Zero-dependency, browser-based JSON formatter and viewer with structured expand/collapse, field copying, and local parsing ([Source](https://github.com/wangruofeng/json-viewer))
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - A collection of 140+ pure CSS, SVG, and Canvas web animation effects with live browser previews and bilingual UI ([Source](https://github.com/wangruofeng/animation-playground))
@@ -64,6 +65,7 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
+- <!-- portfolio:fm --> 🎵 **[Mystery Vinyl](https://fm.wangruofeng007.com/)** - An interactive vinyl turntable with mood-based music, ambient sound mixing, and custom sources ([Source](https://github.com/wangruofeng/fm))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
 ### 🧰 Online Tools

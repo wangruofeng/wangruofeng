@@ -54,6 +54,7 @@
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - 学习 30 个核心大语言模型概念（[源码](https://github.com/wangruofeng/big-model-terms)）
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - 通过代码解读开源项目的中英文课程平台（[源码](https://github.com/wangruofeng/github-course)）
 - 📖 **[Word Root Workshop](https://blog.wangruofeng007.com/word-root-workshop/)** - 通过拆解词根、前缀和后缀学习英语词汇（[源码](https://github.com/wangruofeng/word-root-workshop)）
+- 🧊 **[Three.js 学习](https://blog.wangruofeng007.com/learn-threejs/)** - 从第一个立方体到后处理景深的 30 课 Three.js 交互式学习示例（[源码](https://github.com/wangruofeng/learn-threejs)）
 - 📐 **[SVG Learning](https://blog.wangruofeng007.com/svg-learning/)** - 从基础语法到生产实践的交互式 SVG 指南（[源码](https://github.com/wangruofeng/svg-learning)）
 - 🔍 **[JSON Viewer](https://blog.wangruofeng007.com/json-viewer/)** - 单文件、零依赖的浏览器 JSON 格式化与查看工具，支持结构化展开折叠、字段复制和本地解析（[源码](https://github.com/wangruofeng/json-viewer)）
 - 🎞️ **[Animation Playground](https://playground.wangruofeng007.com)** - 140+ 个纯 CSS、SVG 和 Canvas 网页动画特效合集，支持浏览器本地实时预览与中英双语界面（[源码](https://github.com/wangruofeng/animation-playground)）
@@ -65,6 +66,7 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - 带 Web 界面的 Python FTP 服务器，方便文件共享
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - 经典 Web 目录索引界面的 FTP 服务器
 - 🎨 **[儿童画作画廊](https://gallery.wangruofeng007.com/)** - 基于 Astro 构建的静态作品画廊，用于长期归档和展示儿童绘画作品
+- <!-- portfolio:fm --> 🎵 **[Mystery Vinyl](https://fm.wangruofeng007.com/)** - 按心情随机播放音乐的交互式黑胶唱机，支持环境音混合与自定义音源 ([源码](https://github.com/wangruofeng/fm))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - 文本截图捕捉与 OCR 识别工具
 
 ### 🧰 在线工具集
