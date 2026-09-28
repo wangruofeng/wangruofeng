@@ -65,6 +65,7 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
+- <!-- portfolio:shanhai-youqi --> 🗺️ **[Shanhai Youqi](https://shanhaiyouqi.wangruofeng007.com/)** - Explore global destinations and suitable travel seasons by country, city, and travel week ([Source](https://github.com/wangruofeng/shanhai-youqi))
 - <!-- portfolio:fm --> 🎵 **[Mystery Vinyl](https://fm.wangruofeng007.com/)** - An interactive vinyl turntable with mood-based music, ambient sound mixing, and custom sources ([Source](https://github.com/wangruofeng/fm))
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
