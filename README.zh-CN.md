@@ -27,6 +27,7 @@
 ## 代表项目
 
 - ✨ **[AI 生图提示词库](https://gpt-image.wangruofeng007.com/)** - 精选 AI 生图风格提示词与样张，支持搜索、筛选与一键复制
+- 🗞️ **[AI 新闻](https://github.com/wangruofeng/ai-news)** - 聚合 RSS、Atom 与 AI 信源的静态资讯站
 - 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills 控制中心：初始化项目环境、同步跨平台配置、快速安装第三方 Skill
 - 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - MD & 飞书文档转微信公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
@@ -48,8 +49,6 @@
 ### 🌐 Web & 工具
 
 - 📋 **[X 正文一键复制](https://github.com/wangruofeng/chrome-copy)** - 为 X 帖子操作栏添加正文一键复制按钮的轻量 Chrome 扩展
-- ✨ **[AI 生图提示词库](https://gpt-image.wangruofeng007.com/)** - 可搜索、筛选和一键复制的 AI 生图提示词与样张库（[源码](https://github.com/wangruofeng/prompts-collect)）
-- 🗞️ **[AI 新闻](https://github.com/wangruofeng/ai-news)** - 聚合 RSS、Atom 与 AI 信源的静态资讯站
 - 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - 可搜索、分类浏览并支持本地收藏的静态网站收藏夹
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - 学习 30 个核心大语言模型概念（[源码](https://github.com/wangruofeng/big-model-terms)）
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - 通过代码解读开源项目的中英文课程平台（[源码](https://github.com/wangruofeng/github-course)）

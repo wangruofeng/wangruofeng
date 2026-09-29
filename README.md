@@ -27,6 +27,7 @@
 ## Featured Projects
 
 - ✨ **[AI Image Prompt Library](https://gpt-image.wangruofeng007.com/)** - A curated library of AI image style prompts with sample images, search, filters, and one-click copy
+- 🗞️ **[AI News](https://github.com/wangruofeng/ai-news)** - Static AI news site aggregating RSS, Atom, and curated sources
 - 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills control center: initialize project environments, sync cross-platform configs, and install third-party skills
 - 🧩 **[Vecsy](https://vecsy.top/)** - Open Source SVG Editor & Vector Design Studio with live layer editing, preview, zoom, and undo/redo ([Source](https://github.com/wangruofeng/vecsy))
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - Turn Markdown and Feishu docs into WeChat Official Account layouts ([Source](https://github.com/wangruofeng/feishu2wx))
@@ -47,8 +48,6 @@
 ### 🌐 Web & Tools
 
 - 📋 **[X Post Copy](https://github.com/wangruofeng/chrome-copy)** - Lightweight Chrome extension that adds one-click plain-text copying to X posts
-- ✨ **[AI Image Prompt Library](https://gpt-image.wangruofeng007.com/)** - Searchable and filterable AI image prompts with sample images and one-click copy ([Source](https://github.com/wangruofeng/prompts-collect))
-- 🗞️ **[AI News](https://github.com/wangruofeng/ai-news)** - Static AI news site aggregating RSS, Atom, and curated sources
 - 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - Searchable, categorized static bookmark collection with local favorites
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - Learn 30 core Large Language Model concepts ([Source](https://github.com/wangruofeng/big-model-terms))
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
