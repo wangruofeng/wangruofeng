@@ -29,6 +29,7 @@
 - ✨ **[AI 生图提示词库](https://gpt-image.wangruofeng007.com/)** - 精选 AI 生图风格提示词与样张，支持搜索、筛选与一键复制
 - 🗞️ **[AI 新闻](https://github.com/wangruofeng/ai-news)** - 聚合 RSS、Atom 与 AI 信源的静态资讯站
 - 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills 控制中心：初始化项目环境、同步跨平台配置、快速安装第三方 Skill
+- ⛵ **[问舟](https://ask-sail.wangruofeng007.com/)** - 可自行配置模型供应商的 AI 聊天应用，支持多协议流式对话、模型切换与本地会话保存 ([私有仓库](https://github.com/wangruofeng/asksail))
 - 🖼️ **[映页](https://svg-studio.wangruofeng007.com/)** - SVG 幻灯片工作台，支持导入、排序、全屏演示与自动播放 ([私有仓库](https://github.com/wangruofeng/svg-studio))
 - 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - MD & 飞书文档转微信公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
