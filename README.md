@@ -29,6 +29,7 @@
 - ✨ **[AI Image Prompt Library](https://gpt-image.wangruofeng007.com/)** - A curated library of AI image style prompts with sample images, search, filters, and one-click copy
 - 🗞️ **[AI News](https://github.com/wangruofeng/ai-news)** - Static AI news site aggregating RSS, Atom, and curated sources
 - 🎛️ **[skillctl](https://github.com/wangruofeng/skillctl)** - Claude Skills control center: initialize project environments, sync cross-platform configs, and install third-party skills
+- 🖼️ **[SVG Studio](https://svg-studio.wangruofeng007.com/)** - An SVG slideshow workspace with import, reordering, fullscreen presentation, and autoplay ([Private repository](https://github.com/wangruofeng/svg-studio))
 - 🧩 **[Vecsy](https://vecsy.top/)** - Open Source SVG Editor & Vector Design Studio with live layer editing, preview, zoom, and undo/redo ([Source](https://github.com/wangruofeng/vecsy))
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - Turn Markdown and Feishu docs into WeChat Official Account layouts ([Source](https://github.com/wangruofeng/feishu2wx))
 - 🖼️ **[MD2Img](https://md2img.wangruofeng007.com/)** - Turn one Markdown document into a set of ready-to-post Xiaohongshu card images with automatic pagination, nine color themes, and ZIP export ([Source](https://github.com/wangruofeng/md2img))
