@@ -6,8 +6,10 @@ for (const file of ['README.md', 'README.zh-CN.md']) {
   let content = await readFile(new URL(`../${file}`, import.meta.url), 'utf8');
   const language = file === 'README.md' ? 2 : 1;
 
-  for (const [emoji, zhCN, en] of Object.values(identities.projects)) {
+  for (const [id, [emoji, zhCN, en]] of Object.entries(identities.projects)) {
     const title = language === 2 ? en : zhCN;
+    const markedRow = new RegExp(`^- <!-- portfolio:${id} --> .*? \\*\\*\\[[^\\]]+\\]`, 'gm');
+    content = content.replace(markedRow, () => `- <!-- portfolio:${id} --> ${emoji} **[${title}]`);
     const escaped = title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     content = content.replace(new RegExp(`^- .{1,4} \\*\\*\\[${escaped}\\]`, 'gm'), `- ${emoji} **[${title}]`);
   }
