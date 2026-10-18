@@ -40,6 +40,7 @@
 - 🧩 **[Name That UI](https://learnui.wangruofeng007.com/)** - Bilingual visual dictionary for identifying UI elements, learning precise terminology, and generating prompts for coding agents ([Source](https://github.com/wangruofeng/learnui))
 - 😀 **[Emoji Picker](https://emoji-picker.wangruofeng007.com/)** - Search, inspect, and copy emoji in multiple languages ([Source](https://github.com/wangruofeng/emoji-picker))
 - 🔥 **[AI Viral Insights](https://aihot.wangruofeng007.com/)** - Daily snapshots and topic signals for viral AI articles across WeChat, Zhihu, and GitHub Trending
+- 🤖 **[AI Model Catalog](https://ai-models.wangruofeng007.com/)** - Browse and filter AI models by provider, with context windows and input/output/cache pricing ([Source](https://github.com/wangruofeng/ai-models))
 
 ## Explore All Projects
 
@@ -94,7 +95,6 @@
 - 🔄 **[Data Converter](https://blog.wangruofeng007.com/data-converter/)** - Convert JSON, YAML, XML, and CSV ([Source](https://github.com/wangruofeng/data-converter))
 - ✦ **[Unicode Symbol Picker](https://blog.wangruofeng007.com/unicode-picker/)** - Search, inspect, and copy Unicode symbols ([Source](https://github.com/wangruofeng/unicode-picker))
 - 🌍 **[Country Info](https://blog.wangruofeng007.com/country-info/)** - Look up country and region details in multiple languages ([Source](https://github.com/wangruofeng/country-info))
-- 🤖 **[AI Model Catalog](https://blog.wangruofeng007.com/ai-models/)** - Browse and filter AI models by provider, with context windows and input/output/cache pricing ([Source](https://github.com/wangruofeng/ai-models))
 
 ## GitHub Activity
 
