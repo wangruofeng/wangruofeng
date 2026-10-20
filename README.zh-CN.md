@@ -53,7 +53,7 @@
 ### 🌐 Web & 工具
 
 - 📋 **[X 正文一键复制](https://github.com/wangruofeng/chrome-copy)** - 为 X 帖子操作栏添加正文一键复制按钮的轻量 Chrome 扩展
-- <!-- portfolio:md-to-x --> 📝 **[MD to X](https://github.com/wangruofeng/md-to-x)** - Chrome 侧边栏 Markdown 编辑器，将文章、表格、代码块和图片导入 X Articles 草稿
+- 📝 **[MD to X](https://github.com/wangruofeng/md-to-x)** - Chrome 侧边栏 Markdown 编辑器，将文章、表格、代码块和图片导入 X Articles 草稿 <!-- portfolio:md-to-x -->
 - 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - 可搜索、分类浏览并支持本地收藏的静态网站收藏夹
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - 学习 30 个核心大语言模型概念（[源码](https://github.com/wangruofeng/big-model-terms)）
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - 通过代码解读开源项目的中英文课程平台（[源码](https://github.com/wangruofeng/github-course)）
@@ -70,8 +70,8 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - 带 Web 界面的 Python FTP 服务器，方便文件共享
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - 经典 Web 目录索引界面的 FTP 服务器
 - 🎨 **[儿童画作画廊](https://gallery.wangruofeng007.com/)** - 基于 Astro 构建的静态作品画廊，用于长期归档和展示儿童绘画作品
-- <!-- portfolio:shanhai-youqi --> 🗺️ **[山海有期](https://shanhaiyouqi.wangruofeng007.com/)** - 按国家、城市与出行周探索全球目的地和适游季节 ([源码](https://github.com/wangruofeng/shanhai-youqi))
-- <!-- portfolio:fm --> 🎵 **[Mystery Vinyl](https://fm.wangruofeng007.com/)** - 按心情随机播放音乐的交互式黑胶唱机，支持环境音混合与自定义音源 ([源码](https://github.com/wangruofeng/fm))
+- 🗺️ **[山海有期](https://shanhaiyouqi.wangruofeng007.com/)** - 按国家、城市与出行周探索全球目的地和适游季节 ([源码](https://github.com/wangruofeng/shanhai-youqi)) <!-- portfolio:shanhai-youqi -->
+- 🎵 **[Mystery Vinyl](https://fm.wangruofeng007.com/)** - 按心情随机播放音乐的交互式黑胶唱机，支持环境音混合与自定义音源 ([源码](https://github.com/wangruofeng/fm)) <!-- portfolio:fm -->
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - 文本截图捕捉与 OCR 识别工具
 
 ### 🧰 在线工具集

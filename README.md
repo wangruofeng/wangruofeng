@@ -52,7 +52,7 @@
 ### 🌐 Web & Tools
 
 - 📋 **[X Post Copy](https://github.com/wangruofeng/chrome-copy)** - Lightweight Chrome extension that adds one-click plain-text copying to X posts
-- <!-- portfolio:md-to-x --> 📝 **[MD to X](https://github.com/wangruofeng/md-to-x)** - Chrome side panel Markdown editor that imports articles, tables, code blocks, and images into X Articles drafts
+- 📝 **[MD to X](https://github.com/wangruofeng/md-to-x)** - Chrome side panel Markdown editor that imports articles, tables, code blocks, and images into X Articles drafts <!-- portfolio:md-to-x -->
 - 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - Searchable, categorized static bookmark collection with local favorites
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - Learn 30 core Large Language Model concepts ([Source](https://github.com/wangruofeng/big-model-terms))
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
@@ -69,8 +69,8 @@
 - 📡 **[ftp-server](https://github.com/wangruofeng/ftp-server)** - Python FTP server with Web interface for easy file sharing
 - 🌐 **[easy-ftp](https://github.com/wangruofeng/easy-ftp)** - FTP server with classic Web directory index interface
 - 🎨 **[Kids Art Gallery](https://gallery.wangruofeng007.com/)** - Static art gallery built with Astro for archiving and showcasing children's artwork
-- <!-- portfolio:shanhai-youqi --> 🗺️ **[Shanhai Youqi](https://shanhaiyouqi.wangruofeng007.com/)** - Explore global destinations and suitable travel seasons by country, city, and travel week ([Source](https://github.com/wangruofeng/shanhai-youqi))
-- <!-- portfolio:fm --> 🎵 **[Mystery Vinyl](https://fm.wangruofeng007.com/)** - An interactive vinyl turntable with mood-based music, ambient sound mixing, and custom sources ([Source](https://github.com/wangruofeng/fm))
+- 🗺️ **[Shanhai Youqi](https://shanhaiyouqi.wangruofeng007.com/)** - Explore global destinations and suitable travel seasons by country, city, and travel week ([Source](https://github.com/wangruofeng/shanhai-youqi)) <!-- portfolio:shanhai-youqi -->
+- 🎵 **[Mystery Vinyl](https://fm.wangruofeng007.com/)** - An interactive vinyl turntable with mood-based music, ambient sound mixing, and custom sources ([Source](https://github.com/wangruofeng/fm)) <!-- portfolio:fm -->
 - 📸 **[text-snap](https://github.com/wangruofeng/text-snap)** - Text snapshot capture and OCR tool
 
 ### 🧰 Online Tools

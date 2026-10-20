@@ -8,8 +8,11 @@ for (const file of ['README.md', 'README.zh-CN.md']) {
 
   for (const [id, [emoji, zhCN, en]] of Object.entries(identities.projects)) {
     const title = language === 2 ? en : zhCN;
-    const markedRow = new RegExp(`^- <!-- portfolio:${id} --> .*? \\*\\*\\[[^\\]]+\\]`, 'gm');
-    content = content.replace(markedRow, () => `- <!-- portfolio:${id} --> ${emoji} **[${title}]`);
+    content = content.split('\n').map((line) => {
+      if (!line.includes(`<!-- portfolio:${id} -->`)) return line;
+      const row = line.replace(`<!-- portfolio:${id} -->`, '').trimEnd();
+      return row.replace(/^-\s+.*?\*\*\[[^\]]+\]/, () => `- ${emoji} **[${title}]`) + ` <!-- portfolio:${id} -->`;
+    }).join('\n');
     const escaped = title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     content = content.replace(new RegExp(`^- .{1,4} \\*\\*\\[${escaped}\\]`, 'gm'), `- ${emoji} **[${title}]`);
   }
