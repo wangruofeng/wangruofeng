@@ -53,6 +53,7 @@
 ### 🌐 Web & 工具
 
 - 📋 **[X 正文一键复制](https://github.com/wangruofeng/chrome-copy)** - 为 X 帖子操作栏添加正文一键复制按钮的轻量 Chrome 扩展
+- <!-- portfolio:md-to-x --> 📝 **[MD to X](https://github.com/wangruofeng/md-to-x)** - Chrome 侧边栏 Markdown 编辑器，将文章、表格、代码块和图片导入 X Articles 草稿
 - 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - 可搜索、分类浏览并支持本地收藏的静态网站收藏夹
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - 学习 30 个核心大语言模型概念（[源码](https://github.com/wangruofeng/big-model-terms)）
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - 通过代码解读开源项目的中英文课程平台（[源码](https://github.com/wangruofeng/github-course)）
