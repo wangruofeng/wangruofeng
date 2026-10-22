@@ -34,6 +34,7 @@
 - 🧩 **[Vecsy](https://vecsy.top/)** - 开源 SVG 编辑器与矢量设计工作室，支持图层实时编辑、预览、缩放和撤销 / 前进（[源码](https://github.com/wangruofeng/vecsy)）
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - MD & 飞书文档转微信公众号排版工具（[源码](https://github.com/wangruofeng/feishu2wx)）
 - 🖼️ **[MD2Img](https://md2img.wangruofeng007.com/)** - 把一篇 Markdown 一键生成可发布的小红书系列图文卡片，自动分页、九套配色、实时预览与导出（[源码](https://github.com/wangruofeng/md2img)）
+- 🎨 **[中国传统配色](https://colors.wangruofeng007.com/)** - 中华传统色色卡与配色工具，支持颜色检索、色板生成、场景预览及 UI 与终端主题导出 ([源码](https://github.com/wangruofeng/colors)) <!-- portfolio:colors -->
 - 🚀 **[speed.test](https://speed.wangruofeng007.com/)** - 浏览器网络测速工具，支持下载、上传、延迟与抖动测试，以及地区和连接模式切换
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - 安全、快速、完全基于浏览器的图片压缩工具（[源码](https://github.com/wangruofeng/img-compress)）
 - ▶️ **[youtube-digest](https://github.com/wangruofeng/youtube-digest)** - 将 YouTube 视频转化为深度学习资源，支持字幕、双语翻译、AI 概览、讲解与笔记（自带 API Key）
