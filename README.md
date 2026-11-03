@@ -52,6 +52,9 @@
 
 ### 🌐 Web & Tools
 
+- 📺 **[HackerTube](https://hackertube.wangruofeng007.com/)** - A bilingual site for videos recommended by the HN community, with search, similar-video recommendations, and watch later ([Private repository](https://github.com/wangruofeng/hackertube)) <!-- portfolio:hackertube -->
+- 📚 **[Hacker Books](https://hackerbooks.wangruofeng007.com/)** - A bilingual bookshelf of books mentioned by HN readers, with rankings, search, reading paths, and personal booklists ([Private repository](https://github.com/wangruofeng/hackerbooks)) <!-- portfolio:hackerbooks -->
+
 - 📋 **[X Post Copy](https://github.com/wangruofeng/chrome-copy)** - Lightweight Chrome extension that adds one-click plain-text copying to X posts
 - 📝 **[MD to X](https://github.com/wangruofeng/md-to-x)** - Chrome side panel Markdown editor that imports articles, tables, code blocks, and images into X Articles drafts <!-- portfolio:md-to-x -->
 - 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - Searchable, categorized static bookmark collection with local favorites

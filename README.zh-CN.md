@@ -53,6 +53,9 @@
 
 ### 🌐 Web & 工具
 
+- 📺 **[HackerTube](https://hackertube.wangruofeng007.com/)** - HN 社区推荐视频的双语浏览站，支持搜索、相似推荐与稍后观看 ([私有仓库](https://github.com/wangruofeng/hackertube)) <!-- portfolio:hackertube -->
+- 📚 **[黑客书架](https://hackerbooks.wangruofeng007.com/)** - HN 读者提及书籍的双语书架，支持榜单、检索、阅读路径与个人书单 ([私有仓库](https://github.com/wangruofeng/hackerbooks)) <!-- portfolio:hackerbooks -->
+
 - 📋 **[X 正文一键复制](https://github.com/wangruofeng/chrome-copy)** - 为 X 帖子操作栏添加正文一键复制按钮的轻量 Chrome 扩展
 - 📝 **[MD to X](https://github.com/wangruofeng/md-to-x)** - Chrome 侧边栏 Markdown 编辑器，将文章、表格、代码块和图片导入 X Articles 草稿 <!-- portfolio:md-to-x -->
 - 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - 可搜索、分类浏览并支持本地收藏的静态网站收藏夹
