@@ -35,6 +35,7 @@
 - 🔗 **[Feishu to WeChat](https://feishu2wx.wangruofeng007.com/)** - Turn Markdown and Feishu docs into WeChat Official Account layouts ([Source](https://github.com/wangruofeng/feishu2wx))
 - 🖼️ **[MD2Img](https://md2img.wangruofeng007.com/)** - Turn one Markdown document into a set of ready-to-post Xiaohongshu card images with automatic pagination, nine color themes, and ZIP export ([Source](https://github.com/wangruofeng/md2img))
 - 🎨 **[Chinese Traditional Colors](https://colors.wangruofeng007.com/)** - Chinese traditional color cards and palette tools with color search, palette generation, scene previews, and UI and terminal theme export ([Source](https://github.com/wangruofeng/colors)) <!-- portfolio:colors -->
+- 📡 **[WiFi Drop](https://wifi-drop.wangruofeng007.com/)** - Send files between devices on the same network from your browser ([Private repository](https://github.com/wangruofeng/wifi-drop)) <!-- portfolio:wifi-drop -->
 - 🚀 **[speed.test](https://speed.wangruofeng007.com/)** - Browser-based network speed test with download, upload, latency, jitter, region selection, and connection modes
 - 🗜️ **[ImgCompress](https://img-compress.wangruofeng007.com/)** - Safe, fast, fully browser-based image compression tool ([Source](https://github.com/wangruofeng/img-compress))
 - ▶️ **[youtube-digest](https://github.com/wangruofeng/youtube-digest)** - Turn YouTube videos into deep learning resources with transcripts, bilingual translation, AI overviews, explanations, and notes (bring your own API keys)
