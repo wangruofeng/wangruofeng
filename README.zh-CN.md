@@ -61,6 +61,8 @@
 - 📝 **[MD to X](https://github.com/wangruofeng/md-to-x)** - Chrome 侧边栏 Markdown 编辑器，将文章、表格、代码块和图片导入 X Articles 草稿 <!-- portfolio:md-to-x -->
 - 🧪 **[UI Lab](https://ui-lab.wangruofeng007.com/)** - 交互式 UI 设计案例库，提供改版前后演示与可复制的提示词 ([源码](https://github.com/wangruofeng/ui-lab)) <!-- portfolio:ui-lab -->
 - 🛠️ **[UI Skills](https://ui-skills.wangruofeng007.com/)** - ibelick 的 UI Skills 双语镜像，收录设计工程技能、指南与资源 ([源码](https://github.com/wangruofeng/ui-skills)) <!-- portfolio:ui-skills -->
+- 📐 **[绘纸工坊](https://graphpaper.wangruofeng007.com/)** - 可离线使用的打印纸张生成器，支持自定义方格、点阵等纸型并导出 PDF、SVG 或 PNG ([源码](https://github.com/wangruofeng/graph-paper)) <!-- portfolio:graph-paper -->
+- 📅 **[日历工坊](https://calendars.wangruofeng007.com/)** - 可自定义日期与语言的打印日历生成器，提供年历、月历、工作日历和每日撕页版式 ([源码](https://github.com/wangruofeng/calendars)) <!-- portfolio:calendars -->
 - 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - 可搜索、分类浏览并支持本地收藏的静态网站收藏夹
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - 学习 30 个核心大语言模型概念（[源码](https://github.com/wangruofeng/big-model-terms)）
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - 通过代码解读开源项目的中英文课程平台（[源码](https://github.com/wangruofeng/github-course)）

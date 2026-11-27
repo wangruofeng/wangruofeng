@@ -60,6 +60,8 @@
 - 📝 **[MD to X](https://github.com/wangruofeng/md-to-x)** - Chrome side panel Markdown editor that imports articles, tables, code blocks, and images into X Articles drafts <!-- portfolio:md-to-x -->
 - 🧪 **[UI Lab](https://ui-lab.wangruofeng007.com/)** - Interactive UI design case library with before-and-after demos and copyable prompts ([Source](https://github.com/wangruofeng/ui-lab)) <!-- portfolio:ui-lab -->
 - 🛠️ **[UI Skills](https://ui-skills.wangruofeng007.com/)** - Bilingual mirror of ibelick’s UI Skills, with skills, guides, and resources for design engineers ([Source](https://github.com/wangruofeng/ui-skills)) <!-- portfolio:ui-skills -->
+- 📐 **[Graph Paper Studio](https://graphpaper.wangruofeng007.com/)** - Offline-ready printable paper generator with customizable grids, dot patterns, and PDF, SVG, or PNG export ([Source](https://github.com/wangruofeng/graph-paper)) <!-- portfolio:graph-paper -->
+- 📅 **[Calendar Studio](https://calendars.wangruofeng007.com/)** - Printable calendar generator with customizable dates and languages, plus yearly, monthly, weekday, and cut-and-stack layouts ([Source](https://github.com/wangruofeng/calendars)) <!-- portfolio:calendars -->
 - 🔖 **[FavDeckly](https://github.com/wangruofeng/fav-deckly)** - Searchable, categorized static bookmark collection with local favorites
 - 📚 **[LLM Terms Workshop](https://blog.wangruofeng007.com/big-model-terms/)** - Learn 30 core Large Language Model concepts ([Source](https://github.com/wangruofeng/big-model-terms))
 - 🧭 **[GitHub Course](https://github-course.wangruofeng007.com/)** - Bilingual guided courses for understanding open-source projects through their code ([Source](https://github.com/wangruofeng/github-course))
